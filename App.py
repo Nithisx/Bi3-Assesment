@@ -323,6 +323,12 @@ def background_process_batch(batch_id: str, df_records: list):
             # Complete batch successfully
             cursor.execute("UPDATE batches SET status = 'completed' WHERE batch_id = %s;", (batch_id,))
             conn.commit()
+            
+            # Build vector index for FAISS RAG
+            try:
+                build_vector_index_for_batch(batch_id)
+            except Exception as index_err:
+                print(f"[WARNING] Failed to build vector index for batch {batch_id}: {index_err}")
         
     except Exception as e:
         print(f"[ERROR] Batch worker failed for {batch_id}: {e}")
@@ -859,46 +865,236 @@ Summarize these results for the user. Address their query directly, mention key 
     except Exception as e:
         return f"Query executed successfully, but failed to summarize: {e}"
 
+EMBEDDING_MODEL = None
+
+def get_embedding_model():
+    global EMBEDDING_MODEL
+    if EMBEDDING_MODEL is None:
+        from sentence_transformers import SentenceTransformer
+        print("[INFO] Loading SentenceTransformer model ('all-MiniLM-L6-v2')...")
+        EMBEDDING_MODEL = SentenceTransformer("all-MiniLM-L6-v2")
+        print("[SUCCESS] SentenceTransformer model loaded.")
+    return EMBEDDING_MODEL
+
+def build_vector_index_for_batch(batch_id: str):
+    """
+    Fetches all processed rows for batch_id from the database,
+    generates embeddings, builds the FAISS index, and saves it.
+    """
+    import os
+    import json
+    import numpy as np
+    import faiss
+    
+    os.makedirs("vector_indices", exist_ok=True)
+    
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    cursor.execute("""
+        SELECT id, timestamp, source, rating, feedback_text, sentiment, category, summary 
+        FROM analyzed_feedback 
+        WHERE batch_id = %s 
+        ORDER BY id;
+    """, (batch_id,))
+    rows = cursor.fetchall()
+    
+    column_names = [desc[0] for desc in cursor.description]
+    cursor.close()
+    conn.close()
+    
+    if not rows:
+        print(f"[WARNING] No feedback rows found in database for batch {batch_id}.")
+        return
+        
+    records = [dict(zip(column_names, row)) for row in rows]
+    texts = [r["feedback_text"] for r in records]
+    
+    model = get_embedding_model()
+    embeddings = model.encode(texts, show_progress_bar=False)
+    
+    # Normalize for cosine similarity
+    embeddings = np.array(embeddings).astype("float32")
+    faiss.normalize_L2(embeddings)
+    
+    dimension = embeddings.shape[1]
+    index = faiss.IndexFlatIP(dimension)
+    index.add(embeddings)
+    
+    index_path = f"vector_indices/{batch_id}.index"
+    meta_path = f"vector_indices/{batch_id}.json"
+    
+    faiss.write_index(index, index_path)
+    with open(meta_path, "w", encoding="utf-8") as f:
+        json.dump(records, f, indent=2)
+        
+    print(f"[SUCCESS] Vector index built for batch {batch_id} with {len(records)} records.")
+
+def retrieve_similar_feedback(batch_id: str, query: str, top_k: int = 8) -> list:
+    """
+    Given a batch_id and a user query, embeds the query, queries the FAISS index,
+    and returns the top_k matching records from that batch.
+    """
+    import os
+    import json
+    import faiss
+    
+    index_path = f"vector_indices/{batch_id}.index"
+    meta_path = f"vector_indices/{batch_id}.json"
+    
+    # Build on-the-fly if missing (e.g. for historical runs)
+    if not os.path.exists(index_path) or not os.path.exists(meta_path):
+        print(f"[INFO] Vector index for batch {batch_id} not found. Building now...")
+        build_vector_index_for_batch(batch_id)
+        
+    if not os.path.exists(index_path) or not os.path.exists(meta_path):
+        return []
+        
+    index = faiss.read_index(index_path)
+    with open(meta_path, "r", encoding="utf-8") as f:
+        metadata = json.load(f)
+        
+    if not metadata:
+        return []
+        
+    model = get_embedding_model()
+    query_vector = model.encode([query])
+    faiss.normalize_L2(query_vector)
+    
+    distances, indices = index.search(query_vector, min(top_k, len(metadata)))
+    
+    results = []
+    for dist, idx in zip(distances[0], indices[0]):
+        if idx < 0 or idx >= len(metadata):
+            continue
+        item = metadata[idx]
+        item_copy = dict(item)
+        item_copy["similarity"] = float(dist)
+        results.append(item_copy)
+        
+    return results
+
+def classify_chat_intent(user_query: str) -> str:
+    """
+    Classifies if the query should be answered using standard SQL filters
+    or requires semantic text search (RAG).
+    """
+    prompt = f"""You are a database query routing assistant.
+Decide if the user's question should be answered using:
+1. SQL: For specific queries asking for counts, listings, filtering by sentiment, category, rating, source, or timestamp (e.g. "show negative delivery reviews from yesterday", "how many Positive ratings in Billing?", "list reviews for support category").
+2. RAG: For general, open-ended, semantic, or conceptual questions where exact SQL column filters or text matching are not enough (e.g. "are people complaining about late deliveries?", "what are the most common complaints about billing?", "what are people saying about support staff?").
+
+Respond with exactly one word: 'SQL' or 'RAG'. Do not write any other explanation or markdown.
+
+User Question: "{user_query}"
+Class:"""
+    try:
+        response = client.chat.completions.create(
+            model=MODEL_NAME,
+            messages=[{"role": "user", "content": prompt}],
+            max_tokens=10,
+            temperature=0.0
+        )
+        classification = get_response_content(response).strip().upper()
+        if "SQL" in classification:
+            return "SQL"
+        return "RAG"
+    except Exception as e:
+        print(f"[ERROR] Chat intent classification failed: {e}. Defaulting to SQL.")
+        return "SQL"
+
 @app.post("/api/batch/{batch_id}/chat")
 def chat_with_batch(batch_id: str, request: ChatRequest):
     """
-    Agentic chat endpoint that generates SQL, executes it against the batch data,
-    and returns a summarized response with the SQL query and row counts.
+    Agentic chat endpoint that routes queries between structured SQL
+    and semantic RAG using FAISS, depending on query intent and results.
     """
     user_query = request.message
     
-    # 1. Generate SQL
-    sql_query = generate_sql_for_batch(batch_id, user_query)
-    if not sql_query:
-        raise HTTPException(status_code=500, detail="Failed to generate SQL query.")
-        
-    # 2. Safety Check
-    if not is_safe_query(sql_query):
-        raise HTTPException(status_code=400, detail=f"Generated unsafe SQL query: {sql_query}")
-        
-    # 3. Execute SQL
-    try:
-        conn = get_db_connection()
-        cursor = conn.cursor()
-        cursor.execute(sql_query)
-        results = cursor.fetchall()
-        column_names = [desc[0] for desc in cursor.description]
-        cursor.close()
-        conn.close()
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Database execution error: {e}\nGenerated SQL: {sql_query}")
-        
-    # 4. Summarize results
-    summary = summarize_results(user_query, sql_query, results, column_names)
+    # 1. Classify the user query intent
+    intent = classify_chat_intent(user_query)
+    print(f"[CHAT] Query classified as: {intent}")
     
-    # Format raw results for frontend visualization (limit to 100 for UI charting)
-    formatted_results = []
-    for row in results[:100]:
-        formatted_results.append(dict(zip(column_names, row)))
+    use_rag = (intent == "RAG")
+    sql_query = None
+    results = []
+    column_names = []
+    
+    if not use_rag:
+        # Generate SQL
+        sql_query = generate_sql_for_batch(batch_id, user_query)
+        if not sql_query or not is_safe_query(sql_query):
+            print(f"[CHAT] SQL generation failed or is unsafe. Falling back to RAG.")
+            use_rag = True
+        else:
+            try:
+                conn = get_db_connection()
+                cursor = conn.cursor()
+                cursor.execute(sql_query)
+                results_raw = cursor.fetchall()
+                column_names = [desc[0] for desc in cursor.description]
+                cursor.close()
+                conn.close()
+                
+                # If SQL query returned 0 rows, fall back to RAG!
+                if not results_raw:
+                    print(f"[CHAT] SQL query returned 0 rows. Falling back to RAG.")
+                    use_rag = True
+                else:
+                    results = [dict(zip(column_names, r)) for r in results_raw]
+                    # Summarize results from SQL
+                    summary = summarize_results(user_query, sql_query, results_raw, column_names)
+            except Exception as e:
+                print(f"[CHAT] SQL execution failed: {e}. Falling back to RAG.")
+                use_rag = True
+
+    if use_rag:
+        # Perform similarity search using FAISS
+        try:
+            results = retrieve_similar_feedback(batch_id, user_query, top_k=8)
+        except Exception as e:
+            print(f"[ERROR] RAG retrieval failed: {e}")
+            raise HTTPException(status_code=500, detail=f"RAG retrieval failed: {e}")
+            
+        # Format matched records for context
+        if not results:
+            summary = "I couldn't find any relevant feedback records matching your query in this batch."
+        else:
+            context_messages = []
+            for idx, r in enumerate(results):
+                msg_info = f"[{idx+1}] Text: {r['feedback_text']} | Category: {r['category']} | Sentiment: {r['sentiment']} | Date: {r['timestamp']}"
+                context_messages.append(msg_info)
+                
+            context_text = "\n".join(context_messages)
+            
+            rag_prompt = f"""You are a professional customer feedback analyst assistant.
+Here are some real customer messages:
+{context_text}
+
+Based on these, answer the user's question: "{user_query}"
+Answer using actual real feedback details instead of guessing. Keep it concise (1-2 paragraphs max). Format in a friendly, professional markdown style.
+"""
+            try:
+                response = client.chat.completions.create(
+                    model=MODEL_NAME,
+                    messages=[{"role": "user", "content": rag_prompt}],
+                    max_tokens=300,
+                    temperature=0.3
+                )
+                summary = get_response_content(response)
+            except Exception as e:
+                raise HTTPException(status_code=500, detail=f"Failed to generate answer from context: {e}")
+                
+        return {
+            "sql": None,
+            "total_results": len(results),
+            "results": results[:100],
+            "summary": summary
+        }
         
-    return {
-        "sql": sql_query,
-        "total_results": len(results),
-        "results": formatted_results,
-        "summary": summary
-    }
+    else:
+        return {
+            "sql": sql_query,
+            "total_results": len(results),
+            "results": results[:100],
+            "summary": summary
+        }

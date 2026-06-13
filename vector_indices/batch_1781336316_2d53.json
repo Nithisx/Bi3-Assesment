@@ -1,0 +1,3022 @@
+[
+  {
+    "id": 1002,
+    "timestamp": "2024-01-18",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "my order arrived almost an hour late and the food was cold",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order arrived late and food was cold."
+  },
+  {
+    "id": 1004,
+    "timestamp": "2024-01-26",
+    "source": "app_store_review",
+    "rating": null,
+    "feedback_text": "the invoice amount does not match what the app showed me",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Invoice amount does not match app's displayed amount."
+  },
+  {
+    "id": 1014,
+    "timestamp": "2024-01-03",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "package was left at the wrong door i never received it",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Package was delivered to the wrong door and not received."
+  },
+  {
+    "id": 1018,
+    "timestamp": "2024-01-02",
+    "source": "support_ticket",
+    "rating": 3.0,
+    "feedback_text": "customer care kept me on hold for 40 minutes then disconnected this is the first time",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Long hold time and disconnection during customer support interaction"
+  },
+  {
+    "id": 1022,
+    "timestamp": "2024-01-27",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "driver could not find my building and just cancelled  my groceries order in pune",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Driver cancelled grocery order because they couldn't find the building."
+  },
+  {
+    "id": 1025,
+    "timestamp": "2024-01-03",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "double deduction on my card for order need this reversed asap this is the second time",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer reports a double deduction on their card for an order and requests an urgent reversal."
+  },
+  {
+    "id": 1028,
+    "timestamp": "2024-01-12",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "driver could not find my building and just cancelled",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Driver cancelled because they couldn't find the building."
+  },
+  {
+    "id": 1032,
+    "timestamp": "2024-01-18",
+    "source": "app_store_review",
+    "rating": 5.0,
+    "feedback_text": "five stars the app is fantastic and reliable",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer is very satisfied with the app's performance."
+  },
+  {
+    "id": 1033,
+    "timestamp": "2024-01-22",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "coupon save50 did not apply at checkout and i paid full price  my pizza order in bangalore",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Coupon code 'save50' did not apply at checkout, resulting in full price payment."
+  },
+  {
+    "id": 1036,
+    "timestamp": "2024-01-09",
+    "source": "survey_comment",
+    "rating": null,
+    "feedback_text": "search bar shooows no results even for items that exist",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Search bar displays no results for existing items."
+  },
+  {
+    "id": 1045,
+    "timestamp": "2024-01-15",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "cannot add address the save button is greyed out",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "User cannot add an address because the save button is greyed out."
+  },
+  {
+    "id": 1048,
+    "timestamp": "2024-01-23",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "the map screen freezes and i cannot place an order",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Map screen freezes, preventing order placement."
+  },
+  {
+    "id": 1049,
+    "timestamp": "2024-01-23",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "my order arrived almost an hour late and the food was cold",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order arrived late and food was cold."
+  },
+  {
+    "id": 1051,
+    "timestamp": "2024-01-24",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "the new version drains my battery so fast  my thali order in bangalore",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "New app version causes rapid battery drain."
+  },
+  {
+    "id": 1052,
+    "timestamp": "2024-01-06",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "the store staff was friendly when i picked up my order",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Store staff was friendly during order pickup."
+  },
+  {
+    "id": 1053,
+    "timestamp": "2024-01-16",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "the new version drains my battery so fast",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "New app version causes rapid battery drain."
+  },
+  {
+    "id": 1054,
+    "timestamp": "2024-01-27",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "the store staff was friendly when i picked up my order",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Store staff was friendly during order pickup."
+  },
+  {
+    "id": 1057,
+    "timestamp": "2024-01-20",
+    "source": "survey_comment",
+    "rating": 3.0,
+    "feedback_text": "the store staff was friendly when i picked up my order",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Store staff was friendly during order pickup."
+  },
+  {
+    "id": 1072,
+    "timestamp": "2024-01-02",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "payment failed but money got deducted from my account this is the third time",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Payment failed three times despite account deduction"
+  },
+  {
+    "id": 1073,
+    "timestamp": "2024-01-15",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "coupon save50 did not apply at checkout and i paid full price agent sana was handling it",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Coupon code did not apply at checkout, resulting in full price payment."
+  },
+  {
+    "id": 1074,
+    "timestamp": "2024-01-19",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "app stuck on loading screen for 5 minutes then closed",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "App is stuck on loading screen and then closes."
+  },
+  {
+    "id": 1079,
+    "timestamp": "2024-01-14",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "payment failed but money got deducted from my account agent sana was handling it",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Payment failed but money was deducted from the account."
+  },
+  {
+    "id": 1095,
+    "timestamp": "2024-01-05",
+    "source": "support_ticket",
+    "rating": 3.0,
+    "feedback_text": "i was charged twice for the same order please refund the extra amount  my sushi order in pune",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer was charged twice for an order and requests a refund."
+  },
+  {
+    "id": 1098,
+    "timestamp": "2024-01-12",
+    "source": "survey_comment",
+    "rating": 3.0,
+    "feedback_text": "the map screen freezes and i cannot place an order  my fruits order in delhi",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Map screen freezes, preventing order placement."
+  },
+  {
+    "id": 1100,
+    "timestamp": "2024-01-16",
+    "source": "app_store_review",
+    "rating": null,
+    "feedback_text": "the new version drains my battery so fast",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "The new app version drains the device battery quickly."
+  },
+  {
+    "id": 1105,
+    "timestamp": "2024-01-26",
+    "source": "support_ticket",
+    "rating": 5.0,
+    "feedback_text": "five stars the app is fantastic and reliable",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer is very satisfied with the app's performance."
+  },
+  {
+    "id": 1107,
+    "timestamp": "2024-01-20",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "order marked delivered but nothing arrived at my place this is the first time",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order was marked delivered but the customer did not receive it."
+  },
+  {
+    "id": 1112,
+    "timestamp": "2024-01-03",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "delivery person was rude and threw the bag on the floor  my biryani order in chennai",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Delivery person was rude and threw the order on the floor."
+  },
+  {
+    "id": 1116,
+    "timestamp": "2024-01-28",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "app stuck on loading screen for 5 minutes then closed",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "App is stuck on loading screen and then closes."
+  },
+  {
+    "id": 1120,
+    "timestamp": "2024-01-10",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "the support agent was very helpful and solved my issue quickly",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Support agent was helpful and resolved the issue quickly."
+  },
+  {
+    "id": 1121,
+    "timestamp": "2024-01-23",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "double deduction on my card for order need this reversed asap agent anil was handling it",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer experienced a double deduction on their card and requires a reversal."
+  },
+  {
+    "id": 1128,
+    "timestamp": "2024-01-17",
+    "source": "support_ticket",
+    "rating": null,
+    "feedback_text": "delivery person was rude and threw the bag on the floor",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Delivery person was rude and threw the bag on the floor."
+  },
+  {
+    "id": 1135,
+    "timestamp": "2024-01-07",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "order marked delivered but nothing arrived at my place  my burger order in bangalore",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order marked as delivered but never arrived."
+  },
+  {
+    "id": 1136,
+    "timestamp": "2024-01-06",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "my order arrived almost an hour late and the food was cold agent anil was handling it",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order arrived late and food was cold."
+  },
+  {
+    "id": 1140,
+    "timestamp": "2024-01-03",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "why is there a service fee i never agreed to on my bill",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Unexpected service fee in billing statement"
+  },
+  {
+    "id": 1141,
+    "timestamp": "2024-01-11",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "got charged for a subscription i cancelled last month",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer was charged for a subscription they had previously cancelled."
+  },
+  {
+    "id": 1148,
+    "timestamp": "2024-02-02",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "items were missing from my delivery got only half the order",
+    "sentiment": "Unknown",
+    "category": "Other",
+    "summary": "API query failure"
+  },
+  {
+    "id": 1152,
+    "timestamp": "2024-01-15",
+    "source": "survey_comment",
+    "rating": null,
+    "feedback_text": "coupon save50 did not apply at checkout and i paid full price  my thali order in mumbai",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Coupon code 'save50' was not applied at checkout, resulting in full price payment for the order."
+  },
+  {
+    "id": 1163,
+    "timestamp": "2024-01-05",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "the map screen freezes and i cannot place an order this is the second time",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Map screen freezes, preventing order placement."
+  },
+  {
+    "id": 1164,
+    "timestamp": "2024-01-21",
+    "source": "app_store_review",
+    "rating": null,
+    "feedback_text": "i was charged twice for the same order please refund the extra amount",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer was charged twice for the same order and requests a refund for the extra amount."
+  },
+  {
+    "id": 1173,
+    "timestamp": "2024-01-15",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "i was charged twice for the same order please refund the extra amount",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer was charged twice for the same order and requests a refund."
+  },
+  {
+    "id": 1189,
+    "timestamp": "2024-01-11",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "driver could not find my building and just cancelled  my groceries order in mumbai",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Driver cancelled order because they couldn't find the building."
+  },
+  {
+    "id": 1191,
+    "timestamp": "2024-01-08",
+    "source": "app_store_review",
+    "rating": 5.0,
+    "feedback_text": "great experience overall food always fresh agent sana was handling it",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Positive experience with fresh food and helpful agent Sana."
+  },
+  {
+    "id": 1195,
+    "timestamp": "2024-01-24",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "delivery person was rude and threw the bag on the floor agent neha was handling it",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Delivery person was rude and threw the bag on the floor."
+  },
+  {
+    "id": 1201,
+    "timestamp": "2024-01-28",
+    "source": "app_store_review",
+    "rating": 3.0,
+    "feedback_text": "the map screen freezes and i cannot place an order this is the fourth time",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Map screen freezes preventing order placement."
+  },
+  {
+    "id": 1211,
+    "timestamp": "2024-01-11",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "coupon save50 did not apply at checkout and i paid full price this is the fourth time",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Coupon code did not apply at checkout, resulting in full price payment."
+  },
+  {
+    "id": 1213,
+    "timestamp": "2024-01-17",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "double deduction on my card for order need this reversed asap",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer reports a double deduction on their card and requests a reversal."
+  },
+  {
+    "id": 1239,
+    "timestamp": "2024-02-01",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "double deduction on my card for order need this reversed asap  my fruits order in pune",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer reports a double deduction on their card for an order and requests a reversal."
+  },
+  {
+    "id": 1247,
+    "timestamp": "2024-01-10",
+    "source": "support_ticket",
+    "rating": 5.0,
+    "feedback_text": "super easy to use and quick checkout well done team",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Positive feedback on ease of use and checkout process."
+  },
+  {
+    "id": 1251,
+    "timestamp": "2024-01-26",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "thank you to the agent priya who handled my complaint so well",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Customer thanks agent Priya for handling complaint well."
+  },
+  {
+    "id": 1259,
+    "timestamp": "2024-02-02",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "chat support gave me copy paste answers that did not help",
+    "sentiment": "Unknown",
+    "category": "Other",
+    "summary": "API query failure"
+  },
+  {
+    "id": 1260,
+    "timestamp": "2024-01-19",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "the store staff was friendly when i picked up my order",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Store staff was friendly during order pickup."
+  },
+  {
+    "id": 1265,
+    "timestamp": "2024-01-10",
+    "source": "survey_comment",
+    "rating": 3.0,
+    "feedback_text": "delivery person was rude and threw the bag on the floor agent priya was handling it",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Delivery person was rude and threw the bag on the floor."
+  },
+  {
+    "id": 1278,
+    "timestamp": "2024-01-11",
+    "source": "support_ticket",
+    "rating": null,
+    "feedback_text": "double deduction on my card for order need this reversed asap",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer reports a double deduction on their card for an order and requests a reversal."
+  },
+  {
+    "id": 1280,
+    "timestamp": "2024-02-01",
+    "source": "survey_comment",
+    "rating": 3.0,
+    "feedback_text": "the invoice amount does not match what the app showed me",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Invoice amount does not match app's displayed amount."
+  },
+  {
+    "id": 1284,
+    "timestamp": "2024-01-04",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "payment failed but money got deducted from my account",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Payment failed but money was deducted from the account."
+  },
+  {
+    "id": 1306,
+    "timestamp": "2024-02-03",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "my order arrived almost an hour late and the food was cold",
+    "sentiment": "Unknown",
+    "category": "Other",
+    "summary": "API query failure"
+  },
+  {
+    "id": 1309,
+    "timestamp": "2024-01-16",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "i was charged twice for the same order please refund the extra amount  my fruits order in kolkata",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer was charged twice for an order and requests a refund."
+  },
+  {
+    "id": 1311,
+    "timestamp": "2024-01-09",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "food was spilled all over the bag when it reached me  my sushi order in pune",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Food was spilled all over the bag upon delivery."
+  },
+  {
+    "id": 1317,
+    "timestamp": "2024-01-25",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "nobody from support replied to my three emails agent rahul was handling it",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Customer did not receive a reply to their emails from support."
+  },
+  {
+    "id": 1318,
+    "timestamp": "2024-01-13",
+    "source": "support_ticket",
+    "rating": null,
+    "feedback_text": "cannot add address the save button is greyed out this is the fourth time",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Save button is greyed out when trying to add an address."
+  },
+  {
+    "id": 1319,
+    "timestamp": "2024-01-12",
+    "source": "app_store_review",
+    "rating": null,
+    "feedback_text": "order marked delivered but nothing arrived at my place agent priya was handling it",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order marked as delivered but not received."
+  },
+  {
+    "id": 1322,
+    "timestamp": "2024-01-06",
+    "source": "support_ticket",
+    "rating": 4.0,
+    "feedback_text": "love this app ordering is so smooth and fast  my thali order in mumbai",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer loves the app for its smooth and fast ordering experience."
+  },
+  {
+    "id": 1325,
+    "timestamp": "2024-01-28",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "i was charged twice for the same order please refund the extra amount",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer was charged twice for the same order and requests a refund."
+  },
+  {
+    "id": 1326,
+    "timestamp": "2024-02-01",
+    "source": "support_ticket",
+    "rating": 3.0,
+    "feedback_text": "nobody from support replied to my three emails",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Customer received no response to multiple support emails."
+  },
+  {
+    "id": 1333,
+    "timestamp": "2024-01-21",
+    "source": "app_store_review",
+    "rating": null,
+    "feedback_text": "why is there a service fee i never agreed to on my bill agent anil was handling it",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer disputes an unapproved service fee on their bill that agent Anil was handling."
+  },
+  {
+    "id": 1334,
+    "timestamp": "2024-02-03",
+    "source": "app_store_review",
+    "rating": null,
+    "feedback_text": "great experience overall food always fresh  my fruits order in hyderabad",
+    "sentiment": "Unknown",
+    "category": "Other",
+    "summary": "API query failure"
+  },
+  {
+    "id": 1359,
+    "timestamp": "2024-02-03",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "cannot add address the save button is greyed out agent priya was handling it",
+    "sentiment": "Unknown",
+    "category": "Other",
+    "summary": "API query failure"
+  },
+  {
+    "id": 1361,
+    "timestamp": "2024-01-04",
+    "source": "app_store_review",
+    "rating": null,
+    "feedback_text": "super easy to use and quick checkout well done team  my sushi order in chennai",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer praised the ease of use and quick checkout for their sushi order."
+  },
+  {
+    "id": 1365,
+    "timestamp": "2024-01-17",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "my order arrived almost an hour late and the food was cold this is the fourth time",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order arrived late and food was cold for the fourth time."
+  },
+  {
+    "id": 1366,
+    "timestamp": "2024-01-23",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "order marked delivered but nothing arrived at my place this is the fourth time",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order was marked as delivered but never arrived, and this has happened multiple times."
+  },
+  {
+    "id": 1374,
+    "timestamp": "2024-01-13",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "driver could not find my building and just cancelled",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Driver cancelled because they couldn't find the building."
+  },
+  {
+    "id": 1375,
+    "timestamp": "2024-01-02",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "app stuck on loading screen for 5 minutes then closed",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "App experienced loading issue and crashed"
+  },
+  {
+    "id": 1376,
+    "timestamp": "2024-01-17",
+    "source": "support_ticket",
+    "rating": 5.0,
+    "feedback_text": "five stars the app is fantastic and reliable  my milk order in delhi",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer is happy with the app and their milk order."
+  },
+  {
+    "id": 1378,
+    "timestamp": "2024-01-08",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "thank you to the agent priya who handled my complaint so well",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Customer thanks agent Priya for handling complaint well."
+  },
+  {
+    "id": 1380,
+    "timestamp": "2024-01-18",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "the map screen freezes and i cannot place an order",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Map screen freezes, preventing the customer from placing an order."
+  },
+  {
+    "id": 1382,
+    "timestamp": "2024-01-18",
+    "source": "app_store_review",
+    "rating": null,
+    "feedback_text": "order marked delivered but nothing arrived at my place",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order marked as delivered but not received."
+  },
+  {
+    "id": 1387,
+    "timestamp": "2024-01-07",
+    "source": "survey_comment",
+    "rating": null,
+    "feedback_text": "items were missing from my delivery got only half the order",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Customer received only half the order with items missing from the delivery."
+  },
+  {
+    "id": 1390,
+    "timestamp": "2024-02-01",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "nobody from support replied to my three emails this is the third time",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Customer has not received a reply to multiple support emails."
+  },
+  {
+    "id": 1395,
+    "timestamp": "2024-01-22",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "driver could not find my building and just cancelled  my pizza order in chennai",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Driver cancelled order because they couldn't find the building."
+  },
+  {
+    "id": 1396,
+    "timestamp": "2024-01-12",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "nobody from support replied to my three emails agent anil was handling it",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Customer did not receive a reply to their emails from support."
+  },
+  {
+    "id": 1402,
+    "timestamp": "2024-01-06",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "the new version drains my battery so fast",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "The new app version drains the device battery quickly."
+  },
+  {
+    "id": 1404,
+    "timestamp": "2024-01-20",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "cannot add address the save button is greyed out",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "User cannot add an address because the save button is greyed out."
+  },
+  {
+    "id": 1406,
+    "timestamp": "2024-01-04",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "payment failed but money got deducted from my account this is the fourth time",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Payment failed but money was deducted from the account multiple times."
+  },
+  {
+    "id": 1407,
+    "timestamp": "2024-01-18",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "driver could not find my building and just cancelled",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Driver cancelled because they couldn't find the building."
+  },
+  {
+    "id": 1410,
+    "timestamp": "2024-01-12",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "my order arrived almost an hour late and the food was cold  my burger order in chennai",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order arrived late and food was cold."
+  },
+  {
+    "id": 1416,
+    "timestamp": "2024-01-10",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "my order arrived almost an hour late and the food was cold",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order arrived late and food was cold."
+  },
+  {
+    "id": 1434,
+    "timestamp": "2024-01-20",
+    "source": "app_store_review",
+    "rating": 3.0,
+    "feedback_text": "chat support gave me copy paste answers that did not help  my thali order in pune",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Chat support provided unhelpful, copy-pasted answers regarding a thali order."
+  },
+  {
+    "id": 1440,
+    "timestamp": "2024-01-01",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "app stuck on loading screen for 5 minutes then closed  my biryani order in mumbai",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "App crashed during ordering process in Mumbai"
+  },
+  {
+    "id": 1441,
+    "timestamp": "2024-01-18",
+    "source": "survey_comment",
+    "rating": 3.0,
+    "feedback_text": "delivery person was rude and threw the bag on the floor this is the second time",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Delivery person was rude and threw the bag on the floor for the second time."
+  },
+  {
+    "id": 1449,
+    "timestamp": "2024-01-06",
+    "source": "support_ticket",
+    "rating": null,
+    "feedback_text": "best delivery service in my city never had an issue",
+    "sentiment": "Positive",
+    "category": "Delivery",
+    "summary": "Excellent delivery service with no issues."
+  },
+  {
+    "id": 1460,
+    "timestamp": "2024-01-03",
+    "source": "support_ticket",
+    "rating": 3.0,
+    "feedback_text": "the new version drains my battery so fast this is the first time",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "New app version causes rapid battery drain."
+  },
+  {
+    "id": 1463,
+    "timestamp": "2024-01-24",
+    "source": "support_ticket",
+    "rating": 4.0,
+    "feedback_text": "love this app ordering is so smooth and fast",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer loves the app and finds ordering smooth and fast."
+  },
+  {
+    "id": 1471,
+    "timestamp": "2024-01-13",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "the map screen freezes and i cannot place an order this is the third time",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Map screen freezes, preventing order placement."
+  },
+  {
+    "id": 1476,
+    "timestamp": "2024-01-17",
+    "source": "app_store_review",
+    "rating": 3.0,
+    "feedback_text": "package was left at the wrong door i never received it  my burger order in delhi",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Package was delivered to the wrong door and not received."
+  },
+  {
+    "id": 1477,
+    "timestamp": "2024-01-12",
+    "source": "app_store_review",
+    "rating": 5.0,
+    "feedback_text": "five stars the app is fantastic and reliable",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer is very satisfied with the app's performance."
+  },
+  {
+    "id": 1478,
+    "timestamp": "2024-01-02",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "notifications stopped working after the update this is the fourth time",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Notifications stopped functioning post-update (occurred previously)"
+  },
+  {
+    "id": 1484,
+    "timestamp": "2024-01-01",
+    "source": "app_store_review",
+    "rating": 3.0,
+    "feedback_text": "items were missing from my delivery got only half the order",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order was incomplete with missing items"
+  },
+  {
+    "id": 1485,
+    "timestamp": "2024-01-10",
+    "source": "survey_comment",
+    "rating": 3.0,
+    "feedback_text": "items were missing from my delivery got only half the order",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Customer received only half of their delivery order with items missing."
+  },
+  {
+    "id": 1495,
+    "timestamp": "2024-01-17",
+    "source": "support_ticket",
+    "rating": 4.0,
+    "feedback_text": "super easy to use and quick checkout well done team agent neha was handling it",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Positive feedback on ease of use, quick checkout, and agent Neha's handling."
+  },
+  {
+    "id": 1501,
+    "timestamp": "2024-01-28",
+    "source": "survey_comment",
+    "rating": 3.0,
+    "feedback_text": "my order arrived almost an hour late and the food was cold agent vikram was handling it",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order arrived late and food was cold."
+  },
+  {
+    "id": 1504,
+    "timestamp": "2024-01-18",
+    "source": "survey_comment",
+    "rating": 3.0,
+    "feedback_text": "my order arrived almost an hour late and the food was cold",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order arrived late and food was cold."
+  },
+  {
+    "id": 1521,
+    "timestamp": "2024-01-11",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "delivery person was rude and threw the bag on the floor",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Delivery person was rude and threw the bag on the floor."
+  },
+  {
+    "id": 1528,
+    "timestamp": "2024-01-17",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "items were missing from my delivery got only half the order",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Customer received only half of their order with items missing from the delivery."
+  },
+  {
+    "id": 1537,
+    "timestamp": "2024-01-16",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "the new version drains my battery so fast  my thali order in delhi",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "New app version causes rapid battery drain."
+  },
+  {
+    "id": 1570,
+    "timestamp": "2024-01-11",
+    "source": "support_ticket",
+    "rating": 5.0,
+    "feedback_text": "super easy to use and quick checkout well done team  my thali order in bangalore",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer is happy with the ease of use and quick checkout for their thali order."
+  },
+  {
+    "id": 1572,
+    "timestamp": "2024-01-01",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "the invoice amount does not match what the app showed me agent priya was handling it",
+    "sentiment": "Neutral",
+    "category": "Billing",
+    "summary": "Invoice amount mismatch between app and agent"
+  },
+  {
+    "id": 1577,
+    "timestamp": "2024-01-02",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "chat support gave me copy paste answers that did not help",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Received unhelpful copy-paste answers from chat support"
+  },
+  {
+    "id": 1598,
+    "timestamp": "2024-01-15",
+    "source": "support_ticket",
+    "rating": null,
+    "feedback_text": "delivery person was rude and threw the bag on the floor agent priya was handling it",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Delivery person was rude and threw the bag on the floor."
+  },
+  {
+    "id": 1599,
+    "timestamp": "2024-02-02",
+    "source": "app_store_review",
+    "rating": 3.0,
+    "feedback_text": "average experience could be better",
+    "sentiment": "Unknown",
+    "category": "Other",
+    "summary": "API query failure"
+  },
+  {
+    "id": 1600,
+    "timestamp": "2024-01-18",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "app keeps crashing every time i open the cart agent vikram was handling it",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "App crashes when opening the cart."
+  },
+  {
+    "id": 1616,
+    "timestamp": "2024-01-27",
+    "source": "app_store_review",
+    "rating": 5.0,
+    "feedback_text": "great experience overall food always fresh agent vikram was handling it",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Positive experience with fresh food and helpful agent Vikram."
+  },
+  {
+    "id": 1617,
+    "timestamp": "2024-01-27",
+    "source": "app_store_review",
+    "rating": 5.0,
+    "feedback_text": "super easy to use and quick checkout well done team  my biryani order in pune",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Positive feedback on ease of use and quick checkout for a biryani order."
+  },
+  {
+    "id": 1619,
+    "timestamp": "2024-01-08",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "order marked delivered but nothing arrived at my place",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order marked as delivered but not received."
+  },
+  {
+    "id": 1621,
+    "timestamp": "2024-01-01",
+    "source": "survey_comment",
+    "rating": 3.0,
+    "feedback_text": "i was charged twice for the same order please refund the extra amount  my fruits order in pune",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer was charged twice for the same order and requests refund"
+  },
+  {
+    "id": 1623,
+    "timestamp": "2024-01-25",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "search bar shows no results even for items that exist this is the first time",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Search bar is not returning results for existing items."
+  },
+  {
+    "id": 1626,
+    "timestamp": "2024-01-02",
+    "source": "app_store_review",
+    "rating": 3.0,
+    "feedback_text": "items were missing from my delivery got only half the order  my milk order in chennai",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Delivery was incomplete, missing items from the order"
+  },
+  {
+    "id": 1635,
+    "timestamp": "2024-01-23",
+    "source": "survey_comment",
+    "rating": null,
+    "feedback_text": "my order arrived almost an hour late and the food was cold",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order arrived late and food was cold."
+  },
+  {
+    "id": 1637,
+    "timestamp": "2024-01-11",
+    "source": "app_store_review",
+    "rating": null,
+    "feedback_text": "coupon save50 did not apply at checkout and i paid full price  my thali order in delhi",
+    "sentiment": "Unknown",
+    "category": "Other",
+    "summary": "API query failure"
+  },
+  {
+    "id": 1661,
+    "timestamp": "2024-02-01",
+    "source": "survey_comment",
+    "rating": 5.0,
+    "feedback_text": "love this app ordering is so smooth and fast this is the second time",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer loves the app and finds ordering smooth and fast."
+  },
+  {
+    "id": 1662,
+    "timestamp": "2024-01-25",
+    "source": "app_store_review",
+    "rating": 3.0,
+    "feedback_text": "why is there a service fee i never agreed to on my bill",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer is questioning an unexpected service fee on their bill."
+  },
+  {
+    "id": 1668,
+    "timestamp": "2024-01-26",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "app stuck on loading screen for 5 minutes then closed agent meera was handling it",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "App stuck on loading screen and then closed."
+  },
+  {
+    "id": 1673,
+    "timestamp": "2024-01-11",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "got charged for a subscription i cancelled last month agent neha was handling it",
+    "sentiment": "Unknown",
+    "category": "Other",
+    "summary": "API query failure"
+  },
+  {
+    "id": 1677,
+    "timestamp": "2024-01-06",
+    "source": "survey_comment",
+    "rating": null,
+    "feedback_text": "items were missing frooom my delivery got only half the order",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Customer received only half the order with items missing from the delivery."
+  },
+  {
+    "id": 1682,
+    "timestamp": "2024-01-01",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "items were missing from my delivery got only half the order",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order was incomplete with missing items"
+  },
+  {
+    "id": 1686,
+    "timestamp": "2024-01-10",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "driver could not find my building and just cancelled",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Driver cancelled because they couldn't find the building."
+  },
+  {
+    "id": 1692,
+    "timestamp": "2024-01-05",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "nobody from support replied to my three emails  my thali order in kolkata",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Unresponsive support regarding Kolkata thali order after multiple emails"
+  },
+  {
+    "id": 1695,
+    "timestamp": "2024-02-02",
+    "source": "app_store_review",
+    "rating": null,
+    "feedback_text": "five stars the app is fantastic and reliable",
+    "sentiment": "Unknown",
+    "category": "Other",
+    "summary": "API query failure"
+  },
+  {
+    "id": 1702,
+    "timestamp": "2024-01-02",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "delivery person was rude and threw the bag on the floor  my biryani order in mumbai",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Rude delivery person mishandled food order"
+  },
+  {
+    "id": 1707,
+    "timestamp": "2024-01-17",
+    "source": "app_store_review",
+    "rating": 5.0,
+    "feedback_text": "love this app ordering is so smooth and fast",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer loves the app and finds ordering smooth and fast."
+  },
+  {
+    "id": 1711,
+    "timestamp": "2024-02-01",
+    "source": "survey_comment",
+    "rating": null,
+    "feedback_text": "coupon save50 did not apply at checkout and i paid full price  my fruits order in chennai",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Coupon code 'save50' did not apply at checkout, resulting in full price payment for a fruit order."
+  },
+  {
+    "id": 1715,
+    "timestamp": "2024-01-17",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "coupon save50 did not apply at checkout and i paid full price",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Coupon code did not apply at checkout, resulting in full price payment."
+  },
+  {
+    "id": 1719,
+    "timestamp": "2024-01-14",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "items were missing from my delivery got only half the order agent neha was handling it",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Customer received only half of their order."
+  },
+  {
+    "id": 1730,
+    "timestamp": "2024-01-28",
+    "source": "support_ticket",
+    "rating": null,
+    "feedback_text": "five stars the app is fantastic and reliable  my milk order in hyderabad",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer is happy with the app and their milk order."
+  },
+  {
+    "id": 1732,
+    "timestamp": "2024-01-06",
+    "source": "support_ticket",
+    "rating": null,
+    "feedback_text": "the new version drains my battery so fast agent priya was handling it",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "New app version causes rapid battery drain."
+  },
+  {
+    "id": 1744,
+    "timestamp": "2024-01-12",
+    "source": "survey_comment",
+    "rating": 3.0,
+    "feedback_text": "package was left at the wrong door i never received it agent sana was handling it",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Package was delivered to the wrong address and not received."
+  },
+  {
+    "id": 1750,
+    "timestamp": "2024-01-11",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "the new version drains my battery so fast this is the third time",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "New app version causes rapid battery drain."
+  },
+  {
+    "id": 1751,
+    "timestamp": "2024-01-10",
+    "source": "app_store_review",
+    "rating": null,
+    "feedback_text": "driver cooould not find my building and just cancelled",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Driver could not find building and cancelled the delivery."
+  },
+  {
+    "id": 1760,
+    "timestamp": "2024-01-22",
+    "source": "app_store_review",
+    "rating": 3.0,
+    "feedback_text": "order marked delivered but nothing arrived at my place",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order was marked as delivered, but the customer did not receive it."
+  },
+  {
+    "id": 1764,
+    "timestamp": "2024-01-12",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "food was spilled all over the bag when it reached me",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Food arrived spilled all over the delivery bag."
+  },
+  {
+    "id": 1765,
+    "timestamp": "2024-01-06",
+    "source": "survey_comment",
+    "rating": null,
+    "feedback_text": "noootifications stopped working after the update",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Notifications stopped working after the update."
+  },
+  {
+    "id": 1766,
+    "timestamp": "2024-01-03",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "search bar shows no results even for items that exist",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Search bar returns no results for existing items"
+  },
+  {
+    "id": 1776,
+    "timestamp": "2024-01-04",
+    "source": "app_store_review",
+    "rating": 5.0,
+    "feedback_text": "five stars the app is fantastic and reliable this is the first time",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer praises app as fantastic and reliable on first use."
+  },
+  {
+    "id": 1781,
+    "timestamp": "2024-02-01",
+    "source": "support_ticket",
+    "rating": 3.0,
+    "feedback_text": "why is there a service fee i never agreed to on my bill this is the second time",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer is disputing an unexpected service fee on their bill."
+  },
+  {
+    "id": 1784,
+    "timestamp": "2024-01-06",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "login button does nothing on the latest update",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Login button is unresponsive after the latest update."
+  },
+  {
+    "id": 1787,
+    "timestamp": "2024-02-03",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "cannot add address the save button is greyed out",
+    "sentiment": "Unknown",
+    "category": "Other",
+    "summary": "API query failure"
+  },
+  {
+    "id": 1790,
+    "timestamp": "2024-01-22",
+    "source": "app_store_review",
+    "rating": 5.0,
+    "feedback_text": "love this app ordering is so smooth and fast",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer loves the app and finds ordering smooth and fast."
+  },
+  {
+    "id": 1795,
+    "timestamp": "2024-01-09",
+    "source": "survey_comment",
+    "rating": 3.0,
+    "feedback_text": "the new version drains my battery so fast",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "The new app version drains the device battery very quickly."
+  },
+  {
+    "id": 1797,
+    "timestamp": "2024-01-25",
+    "source": "support_ticket",
+    "rating": null,
+    "feedback_text": "super easy to use and quick checkout well done team",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Positive feedback on ease of use and checkout process."
+  },
+  {
+    "id": 1800,
+    "timestamp": "2024-01-06",
+    "source": "app_store_review",
+    "rating": null,
+    "feedback_text": "food was spilled all over the bag when it reached me",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Food arrived spilled all over the bag."
+  },
+  {
+    "id": 1801,
+    "timestamp": "2024-01-12",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "search bar shows no results even for items that exist",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Search bar returns no results for existing items."
+  },
+  {
+    "id": 1806,
+    "timestamp": "2024-01-21",
+    "source": "support_ticket",
+    "rating": null,
+    "feedback_text": "double deduction on my card for order need this reversed asap agent vikram was handling it",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer experienced a double deduction on their card and requires a reversal."
+  },
+  {
+    "id": 1809,
+    "timestamp": "2024-01-10",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "search bar shows no results even for items that exist",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Search bar returns no results for existing items."
+  },
+  {
+    "id": 1814,
+    "timestamp": "2024-01-06",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "driver could not find my building and just cancelled  my pizza order in pune",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Driver cancelled order because they couldn't find the building."
+  },
+  {
+    "id": 1816,
+    "timestamp": "2024-01-22",
+    "source": "support_ticket",
+    "rating": null,
+    "feedback_text": "love this app ordering is so smooth and fast agent anil was handling it",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer loves the app for its smooth and fast ordering experience and praises agent Anil."
+  },
+  {
+    "id": 1819,
+    "timestamp": "2024-01-01",
+    "source": "survey_comment",
+    "rating": null,
+    "feedback_text": "search bar shows no results even for items that exist",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Search bar returns no results for existing items"
+  },
+  {
+    "id": 1823,
+    "timestamp": "2024-01-01",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "my refund still hasnt come after 10 days this is ridiculous  my burger order in hyderabad",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Refund not received after 10 days"
+  },
+  {
+    "id": 1845,
+    "timestamp": "2024-01-02",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "nobody from support replied to my three emails  my biryani order in chennai",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "No response received from support regarding biryani order issue in Chennai"
+  },
+  {
+    "id": 1846,
+    "timestamp": "2024-01-22",
+    "source": "app_store_review",
+    "rating": 3.0,
+    "feedback_text": "customer care kept me on hold for 40 minutes then disconnected agent neha was handling it",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Customer was on hold for 40 minutes and then disconnected by the agent."
+  },
+  {
+    "id": 1861,
+    "timestamp": "2024-01-05",
+    "source": "support_ticket",
+    "rating": 3.0,
+    "feedback_text": "chat support gave me copy paste answers that did not help",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Chat support provided unhelpful copy-paste responses."
+  },
+  {
+    "id": 1864,
+    "timestamp": "2024-01-28",
+    "source": "support_ticket",
+    "rating": null,
+    "feedback_text": "the support agent was very helpful and solved my issue quickly",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Support agent was helpful and resolved the issue quickly."
+  },
+  {
+    "id": 1865,
+    "timestamp": "2024-01-26",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "app keeps crashing every time i open the cart",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "App crashes when opening the cart."
+  },
+  {
+    "id": 1869,
+    "timestamp": "2024-01-13",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "app stuck on loading screen for 5 minutes then closed",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "App got stuck on the loading screen for 5 minutes and then closed."
+  },
+  {
+    "id": 1877,
+    "timestamp": "2024-01-16",
+    "source": "survey_comment",
+    "rating": null,
+    "feedback_text": "notifications stopped working after the update  my pizza order in hyderabad",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Notifications stopped working after an update."
+  },
+  {
+    "id": 1879,
+    "timestamp": "2024-01-08",
+    "source": "support_ticket",
+    "rating": 5.0,
+    "feedback_text": "five stars the app is fantastic and reliable",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer is highly satisfied with the app's performance."
+  },
+  {
+    "id": 1882,
+    "timestamp": "2024-01-06",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "notifications stopped working after the update agent meera was handling it",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Notifications stopped working after an update."
+  },
+  {
+    "id": 1888,
+    "timestamp": "2024-01-23",
+    "source": "survey_comment",
+    "rating": null,
+    "feedback_text": "the invoice amount does not match what the app showed me this is the first time",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Invoice amount differs from app display, first occurrence reported."
+  },
+  {
+    "id": 1891,
+    "timestamp": "2024-01-18",
+    "source": "app_store_review",
+    "rating": 4.0,
+    "feedback_text": "great experience overall food always fresh agent rahul was handling it",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Positive experience with fresh food and helpful agent Rahul."
+  },
+  {
+    "id": 1897,
+    "timestamp": "2024-01-20",
+    "source": "support_ticket",
+    "rating": 3.0,
+    "feedback_text": "app stuck on loading screen for 5 minutes then closed",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "App is stuck on loading screen and then closes."
+  },
+  {
+    "id": 1898,
+    "timestamp": "2024-01-20",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "food was spilled all over the bag when it reached me",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Food arrived spilled all over the bag."
+  },
+  {
+    "id": 1901,
+    "timestamp": "2024-01-04",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "package was left at the wrong door i never received it",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Package was delivered to the wrong address and not received."
+  },
+  {
+    "id": 1902,
+    "timestamp": "2024-01-13",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "food was spilled all over the bag when it reached me",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Food arrived spilled all over the bag."
+  },
+  {
+    "id": 1909,
+    "timestamp": "2024-01-13",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "waited two hours and the order was finally cancelled by the app this is the fourth time",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order cancelled by app after a two-hour wait, this is the fourth occurrence."
+  },
+  {
+    "id": 1910,
+    "timestamp": "2024-01-16",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "got charged for a subscription i cancelled last month",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer was charged for a subscription they cancelled last month."
+  },
+  {
+    "id": 1911,
+    "timestamp": "2024-01-08",
+    "source": "support_ticket",
+    "rating": null,
+    "feedback_text": "best delivery service in my city never had an issue",
+    "sentiment": "Positive",
+    "category": "Delivery",
+    "summary": "Customer praises the delivery service and reports no issues."
+  },
+  {
+    "id": 1923,
+    "timestamp": "2024-01-21",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "the support agent was very helpful and solved my issue quickly",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Support agent was helpful and resolved the issue quickly."
+  },
+  {
+    "id": 1933,
+    "timestamp": "2024-01-15",
+    "source": "survey_comment",
+    "rating": null,
+    "feedback_text": "waited two hours and the order was finally cancelled by the app",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order was cancelled after a two-hour wait."
+  },
+  {
+    "id": 1938,
+    "timestamp": "2024-01-07",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "food was spilled all over the bag when it reached me",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Food arrived spilled all over the bag."
+  },
+  {
+    "id": 1941,
+    "timestamp": "2024-01-07",
+    "source": "app_store_review",
+    "rating": 5.0,
+    "feedback_text": "best delivery service in my city never had an issue  my biryani order in delhi",
+    "sentiment": "Positive",
+    "category": "Delivery",
+    "summary": "Excellent delivery service with no issues for a biryani order in Delhi."
+  },
+  {
+    "id": 1950,
+    "timestamp": "2024-01-17",
+    "source": "survey_comment",
+    "rating": 5.0,
+    "feedback_text": "five stars the app is fantastic and reliable  my thali order in chennai",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer is very satisfied with the app and their order."
+  },
+  {
+    "id": 1952,
+    "timestamp": "2024-01-18",
+    "source": "app_store_review",
+    "rating": 3.0,
+    "feedback_text": "i was charged twice for the same order please refund the extra amount this is the second time",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer was charged twice for the same order and requests a refund."
+  },
+  {
+    "id": 1954,
+    "timestamp": "2024-01-19",
+    "source": "support_ticket",
+    "rating": 3.0,
+    "feedback_text": "chat support gave me copy paste answers that did not help",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Chat support provided unhelpful copy-paste responses."
+  },
+  {
+    "id": 1965,
+    "timestamp": "2024-01-11",
+    "source": "support_ticket",
+    "rating": 3.0,
+    "feedback_text": "got charged for a subscription i cancelled last month",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer was charged for a subscription they had previously cancelled."
+  },
+  {
+    "id": 1972,
+    "timestamp": "2024-01-08",
+    "source": "survey_comment",
+    "rating": null,
+    "feedback_text": "best delivery service in my city never had an issue",
+    "sentiment": "Positive",
+    "category": "Delivery",
+    "summary": "Excellent delivery service with no issues."
+  },
+  {
+    "id": 1974,
+    "timestamp": "2024-01-15",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "thank you to the agent priya who handled my complaint so well",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Customer thanks agent Priya for handling complaint well."
+  },
+  {
+    "id": 1976,
+    "timestamp": "2024-01-23",
+    "source": "survey_comment",
+    "rating": null,
+    "feedback_text": "delivery person was rude and threw the bag on the floor  my sushi order in mumbai",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Delivery person was rude and threw the sushi order on the floor."
+  },
+  {
+    "id": 1977,
+    "timestamp": "2024-01-07",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "customer care kept me on hold for 40 minutes then disconnected agent rahul was handling it",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Customer was on hold for 40 minutes and then disconnected by agent Rahul."
+  },
+  {
+    "id": 1980,
+    "timestamp": "2024-01-21",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "the invoice amount does not match what the app showed me",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Invoice amount does not match app's displayed amount."
+  },
+  {
+    "id": 1984,
+    "timestamp": "2024-01-08",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "nobody from support replied to my three emails  my pizza order in chennai",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Customer did not receive a reply to their support emails regarding a pizza order."
+  },
+  {
+    "id": 1991,
+    "timestamp": "2024-01-16",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "got charged for a subscription i cancelled last month  my milk order in delhi",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer was charged for a cancelled subscription."
+  },
+  {
+    "id": 1997,
+    "timestamp": "2024-01-10",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "package was left at the wrong door i never received it",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Package was delivered to the wrong door and not received."
+  },
+  {
+    "id": 2006,
+    "timestamp": "2024-01-05",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "i was charged twice for the same order please refund the extra amount agent anil was handling it",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer was charged twice for the same order and requests a refund."
+  },
+  {
+    "id": 2008,
+    "timestamp": "2024-01-03",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "the suppooort agent was very helpful and solved my issue quickly this is the second time",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Support agent was very helpful and resolved the issue quickly again."
+  },
+  {
+    "id": 2027,
+    "timestamp": "2024-01-05",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "the support agent was very helpful and solved my issue quickly  my fruits order in mumbai",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Support agent was helpful and resolved the issue quickly for a fruit order."
+  },
+  {
+    "id": 2030,
+    "timestamp": "2024-01-01",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "payment failed but money got deducted from my account agent neha was handling it",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Payment failed but money was deducted from account"
+  },
+  {
+    "id": 2032,
+    "timestamp": "2024-01-12",
+    "source": "support_ticket",
+    "rating": null,
+    "feedback_text": "double deduction on my card for order need this reversed asap",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer was charged twice for an order and wants the extra charge reversed immediately."
+  },
+  {
+    "id": 2033,
+    "timestamp": "2024-01-19",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "app keeps crashing every time i open the cart",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "App crashes when opening the cart."
+  },
+  {
+    "id": 2034,
+    "timestamp": "2024-01-21",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "why is there a service fee i never agreed to on my bill  my fruits order in pune",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer is questioning an unexpected service fee on their bill."
+  },
+  {
+    "id": 2047,
+    "timestamp": "2024-01-06",
+    "source": "support_ticket",
+    "rating": 3.0,
+    "feedback_text": "app stuck on loading screen for 5 minutes then closed",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "App is stuck on loading screen and then closes."
+  },
+  {
+    "id": 2055,
+    "timestamp": "2024-01-23",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "notifications stopped working after the update",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Notifications stopped working after the app update."
+  },
+  {
+    "id": 2064,
+    "timestamp": "2024-01-24",
+    "source": "support_ticket",
+    "rating": 3.0,
+    "feedback_text": "notifications stopped working after the update agent anil was handling it",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Notifications stopped working after an update."
+  },
+  {
+    "id": 2067,
+    "timestamp": "2024-01-17",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "my order arrived almost an hour late and the food was cold  my fruits order in delhi",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order arrived late and food was cold."
+  },
+  {
+    "id": 2078,
+    "timestamp": "2024-01-27",
+    "source": "survey_comment",
+    "rating": 3.0,
+    "feedback_text": "app keeps crashing every time i open the cart",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "App crashes when opening the cart."
+  },
+  {
+    "id": 2083,
+    "timestamp": "2024-02-02",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "coupon save50 did not apply at checkout and i paid full price",
+    "sentiment": "Unknown",
+    "category": "Other",
+    "summary": "API query failure"
+  },
+  {
+    "id": 2092,
+    "timestamp": "2024-01-23",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "cannot add address the save button is greyed out agent rahul was handling it",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "User cannot add an address because the save button is greyed out."
+  },
+  {
+    "id": 2097,
+    "timestamp": "2024-01-23",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "items were missing from my delivery got only half the order  my pizza order in bangalore",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Customer received only half of their pizza order."
+  },
+  {
+    "id": 2100,
+    "timestamp": "2024-01-04",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "the support agent was very helpful and solved my issue quickly agent sana was handling it",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Support agent Sana was helpful and resolved the issue quickly."
+  },
+  {
+    "id": 2101,
+    "timestamp": "2024-01-26",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "nooobody from support replied to my three emails this is the fourth time",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Customer has not received a response to multiple support emails."
+  },
+  {
+    "id": 2111,
+    "timestamp": "2024-01-17",
+    "source": "support_ticket",
+    "rating": 5.0,
+    "feedback_text": "great experience overall food always fresh",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer had a great overall experience with fresh food."
+  },
+  {
+    "id": 2114,
+    "timestamp": "2024-01-21",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "my refund still hasnt cooome after 10 days this is ridiculous",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer is complaining about a delayed refund after 10 days."
+  },
+  {
+    "id": 2125,
+    "timestamp": "2024-01-25",
+    "source": "support_ticket",
+    "rating": 3.0,
+    "feedback_text": "oook i guess",
+    "sentiment": "Neutral",
+    "category": "Other",
+    "summary": "Customer expressed a neutral sentiment with a brief, unspecific comment."
+  },
+  {
+    "id": 2127,
+    "timestamp": "2024-01-08",
+    "source": "support_ticket",
+    "rating": 3.0,
+    "feedback_text": "login button does nothing on the latest update",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Login button is unresponsive after the latest update."
+  },
+  {
+    "id": 2130,
+    "timestamp": "2024-01-25",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "driver could not find my building and just cancelled  my pizza order in mumbai",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Driver cancelled order because they couldn't find the building."
+  },
+  {
+    "id": 2132,
+    "timestamp": "2024-02-02",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "login button does nothing on the latest update  my fruits order in bangalore",
+    "sentiment": "Unknown",
+    "category": "Other",
+    "summary": "API query failure"
+  },
+  {
+    "id": 2134,
+    "timestamp": "2024-01-14",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "waited two hours and the order was finally cancelled by the app",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Customer waited two hours before the order was cancelled by the app."
+  },
+  {
+    "id": 2142,
+    "timestamp": "2024-01-04",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "coupon save50 did not apply at checkout and i paid full price agent rahul was handling it",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Coupon code did not apply at checkout, resulting in full price payment."
+  },
+  {
+    "id": 2153,
+    "timestamp": "2024-01-21",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "why is there a service fee i never agreed to on my bill  my pizza order in delhi",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer is questioning an unagreed service fee on their bill for a pizza order."
+  },
+  {
+    "id": 2155,
+    "timestamp": "2024-01-12",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "search bar shows no results even for items that exist",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Search bar returns no results for existing items."
+  },
+  {
+    "id": 2156,
+    "timestamp": "2024-01-24",
+    "source": "app_store_review",
+    "rating": null,
+    "feedback_text": "package was left at the wrong door i never received it",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Package was delivered to the wrong door and not received."
+  },
+  {
+    "id": 2157,
+    "timestamp": "2024-01-15",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "my refund still hasnt cooome after 10 days this is ridiculous",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Refund has not been received after 10 days."
+  },
+  {
+    "id": 2164,
+    "timestamp": "2024-01-01",
+    "source": "app_store_review",
+    "rating": null,
+    "feedback_text": "app stuck on loading screen for 5 minutes then closed this is the second time",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "App crashes and takes a long time to load"
+  },
+  {
+    "id": 2166,
+    "timestamp": "2024-01-21",
+    "source": "support_ticket",
+    "rating": 5.0,
+    "feedback_text": "best delivery service in my city never had an issue",
+    "sentiment": "Positive",
+    "category": "Delivery",
+    "summary": "Excellent delivery service with no issues."
+  },
+  {
+    "id": 2174,
+    "timestamp": "2024-02-03",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "i was charged twice for the same order please refund the extra amount  my groceries order in mumbai",
+    "sentiment": "Unknown",
+    "category": "Other",
+    "summary": "API query failure"
+  },
+  {
+    "id": 2184,
+    "timestamp": "2024-02-01",
+    "source": "survey_comment",
+    "rating": 5.0,
+    "feedback_text": "best delivery service in my city never had an issue",
+    "sentiment": "Positive",
+    "category": "Delivery",
+    "summary": "Excellent delivery service with no issues."
+  },
+  {
+    "id": 2189,
+    "timestamp": "2024-01-25",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "app stuck on loading screen for 5 minutes then closed this is the third time",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "App repeatedly gets stuck on loading screen and closes."
+  },
+  {
+    "id": 2194,
+    "timestamp": "2024-01-25",
+    "source": "app_store_review",
+    "rating": 3.0,
+    "feedback_text": "ok i guess",
+    "sentiment": "Neutral",
+    "category": "Other",
+    "summary": "Customer expressed a neutral opinion."
+  },
+  {
+    "id": 2198,
+    "timestamp": "2024-01-25",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "the map screen freezes and i cannot place an order",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Map screen freezes, preventing order placement."
+  },
+  {
+    "id": 2204,
+    "timestamp": "2024-01-10",
+    "source": "app_store_review",
+    "rating": 3.0,
+    "feedback_text": "it is okay nothing special",
+    "sentiment": "Neutral",
+    "category": "Other",
+    "summary": "Customer found the experience to be average."
+  },
+  {
+    "id": 2207,
+    "timestamp": "2024-01-26",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "login button does nothing on the latest update agent anil was handling it",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Login button is not working after the latest update."
+  },
+  {
+    "id": 2208,
+    "timestamp": "2024-02-01",
+    "source": "app_store_review",
+    "rating": null,
+    "feedback_text": "chat support gave me copy paste answers that did not help this is the first time",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Chat support provided unhelpful, copy-pasted answers."
+  },
+  {
+    "id": 2225,
+    "timestamp": "2024-01-13",
+    "source": "support_ticket",
+    "rating": 5.0,
+    "feedback_text": "best delivery service in my city never had an issue",
+    "sentiment": "Positive",
+    "category": "Delivery",
+    "summary": "Excellent delivery service with no issues."
+  },
+  {
+    "id": 2234,
+    "timestamp": "2024-01-19",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "nobody from support replied to my three emails",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Customer received no response to multiple support emails."
+  },
+  {
+    "id": 2240,
+    "timestamp": "2024-01-11",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "cannot add address the save button is greyed out  my sushi order in bangalore",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Save button is greyed out when trying to add an address for a sushi order."
+  },
+  {
+    "id": 2251,
+    "timestamp": "2024-01-14",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "cannot add address the save button is greyed out  my fruits order in bangalore",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "User cannot add an address because the save button is greyed out."
+  },
+  {
+    "id": 2256,
+    "timestamp": "2024-01-18",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "driver could not find my building and just cancelled this is the first time",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Driver cancelled due to inability to find the building."
+  },
+  {
+    "id": 2273,
+    "timestamp": "2024-01-03",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "customer care kept me on hold for 40 minutes then disconnected",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Customer care placed customer on hold for 40 minutes and then disconnected."
+  },
+  {
+    "id": 2274,
+    "timestamp": "2024-01-04",
+    "source": "support_ticket",
+    "rating": 5.0,
+    "feedback_text": "super easy to use and quick checkout well done team",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Positive feedback on ease of use and checkout process."
+  },
+  {
+    "id": 2275,
+    "timestamp": "2024-01-16",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "waited two hours and the order was finally cancelled by the app",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Customer waited two hours before the order was cancelled by the app."
+  },
+  {
+    "id": 2279,
+    "timestamp": "2024-01-02",
+    "source": "survey_comment",
+    "rating": 5.0,
+    "feedback_text": "five stars the app is fantastic and reliable this is the second time",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer expressed satisfaction with the app and has used it multiple times"
+  },
+  {
+    "id": 2280,
+    "timestamp": "2024-01-13",
+    "source": "survey_comment",
+    "rating": 4.0,
+    "feedback_text": "great experience overall food always fresh  my biryani order in pune",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer had a great experience with fresh food, specifically mentioning a biryani order."
+  },
+  {
+    "id": 2284,
+    "timestamp": "2024-01-13",
+    "source": "app_store_review",
+    "rating": 5.0,
+    "feedback_text": "best delivery service in my city never had an issue",
+    "sentiment": "Positive",
+    "category": "Delivery",
+    "summary": "Excellent delivery service with no issues."
+  },
+  {
+    "id": 2288,
+    "timestamp": "2024-01-14",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "notifications stopped working after the update this is the second time",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Notifications stopped working after an update, and this has happened before."
+  },
+  {
+    "id": 2291,
+    "timestamp": "2024-01-11",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "my refund still hasnt come after 10 days this is ridiculous",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Refund has not been received after 10 days."
+  },
+  {
+    "id": 2302,
+    "timestamp": "2024-01-22",
+    "source": "support_ticket",
+    "rating": null,
+    "feedback_text": "five stars the app is fantastic and reliable",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer is very satisfied with the app's performance."
+  },
+  {
+    "id": 2303,
+    "timestamp": "2024-01-19",
+    "source": "survey_comment",
+    "rating": 5.0,
+    "feedback_text": "love this app ordering is so smooth and fast",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer loves the app and finds ordering smooth and fast."
+  },
+  {
+    "id": 2305,
+    "timestamp": "2024-01-03",
+    "source": "app_store_review",
+    "rating": 3.0,
+    "feedback_text": "my refund still hasnt cooome after 10 days this is ridiculous",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer is complaining about a delayed refund after 10 days."
+  },
+  {
+    "id": 2308,
+    "timestamp": "2024-01-19",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "app keeps crashing every time i open the cart",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "The app crashes whenever the user opens the cart."
+  },
+  {
+    "id": 2327,
+    "timestamp": "2024-01-10",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "chat support gave me copy paste answers that did not help agent meera was handling it",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Chat support provided unhelpful, copy-pasted answers."
+  },
+  {
+    "id": 2328,
+    "timestamp": "2024-02-03",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "login button does nothing on the latest update",
+    "sentiment": "Unknown",
+    "category": "Other",
+    "summary": "API query failure"
+  },
+  {
+    "id": 2331,
+    "timestamp": "2024-01-27",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "the invoice amount does not match what the app showed me this is the fourth time",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Invoice amount does not match app display, occurring repeatedly."
+  },
+  {
+    "id": 2334,
+    "timestamp": "2024-01-08",
+    "source": "support_ticket",
+    "rating": 5.0,
+    "feedback_text": "best delivery service in my city never had an issue  my groceries order in kolkata",
+    "sentiment": "Positive",
+    "category": "Delivery",
+    "summary": "Excellent delivery service with no issues for grocery orders."
+  },
+  {
+    "id": 2335,
+    "timestamp": "2024-01-05",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "the store staff was friendly when i picked up my order",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Store staff was friendly during order pickup."
+  },
+  {
+    "id": 2339,
+    "timestamp": "2024-01-15",
+    "source": "support_ticket",
+    "rating": 5.0,
+    "feedback_text": "great experience overall food always fresh  my milk order in bangalore",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Positive experience with fresh food and milk order."
+  },
+  {
+    "id": 2348,
+    "timestamp": "2024-02-02",
+    "source": "support_ticket",
+    "rating": 4.0,
+    "feedback_text": "best delivery service in my city never had an issue",
+    "sentiment": "Unknown",
+    "category": "Other",
+    "summary": "API query failure"
+  },
+  {
+    "id": 2355,
+    "timestamp": "2024-01-05",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "items were missing from my delivery got only half the order this is the second time",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Customer received only half of their order, and this has happened before."
+  },
+  {
+    "id": 2359,
+    "timestamp": "2024-01-10",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "my refund still hasnt come after 10 days this is ridiculous agent sana was handling it",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Refund has not been received after 10 days."
+  },
+  {
+    "id": 2360,
+    "timestamp": "2024-01-03",
+    "source": "app_store_review",
+    "rating": 3.0,
+    "feedback_text": "coupon save50 did not apply at checkout and i paid full price",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Coupon code 'save50' did not apply during checkout, resulting in full price payment"
+  },
+  {
+    "id": 2362,
+    "timestamp": "2024-02-01",
+    "source": "survey_comment",
+    "rating": null,
+    "feedback_text": "the support agent was very helpful and solved my issue quickly agent priya was handling it",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Support agent Priya was helpful and resolved the issue quickly."
+  },
+  {
+    "id": 2363,
+    "timestamp": "2024-01-02",
+    "source": "app_store_review",
+    "rating": null,
+    "feedback_text": "super easy to use and quick checkout well done team agent vikram was handling it",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Agent Vikram provided easy and quick checkout process assistance"
+  },
+  {
+    "id": 2370,
+    "timestamp": "2024-01-19",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "driver could not find my building and just cancelled",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Driver could not find the building and cancelled the delivery."
+  },
+  {
+    "id": 2374,
+    "timestamp": "2024-02-01",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "payment failed but money got deducted from my account",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Payment failed but money was deducted from the account."
+  },
+  {
+    "id": 2380,
+    "timestamp": "2024-01-23",
+    "source": "app_store_review",
+    "rating": 4.0,
+    "feedback_text": "super easy to use and quick checkout well done team this is the fourth time",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer is very satisfied with the ease of use and quick checkout process."
+  },
+  {
+    "id": 2383,
+    "timestamp": "2024-01-10",
+    "source": "app_store_review",
+    "rating": null,
+    "feedback_text": "customer care kept me on hold for 40 minutes then disconnected  my milk order in mumbai",
+    "sentiment": "Negative",
+    "category": "Staff/Support",
+    "summary": "Customer care placed customer on hold for 40 minutes and then disconnected their milk order."
+  },
+  {
+    "id": 2387,
+    "timestamp": "2024-01-09",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "cannot add address the save button is greyed out this is the second time",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Save button is greyed out when trying to add an address."
+  },
+  {
+    "id": 2403,
+    "timestamp": "2024-01-28",
+    "source": "survey_comment",
+    "rating": null,
+    "feedback_text": "coupon save50 did not apply at checkout and i paid full price  my fruits order in mumbai",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Coupon code 'save50' did not apply at checkout, resulting in full price payment for fruits order."
+  },
+  {
+    "id": 2404,
+    "timestamp": "2024-01-14",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "my refund still hasnt come after 10 days this is ridiculous this is the second time",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer is frustrated about a delayed refund that has not arrived after 10 days, and this is a recurring issue."
+  },
+  {
+    "id": 2405,
+    "timestamp": "2024-01-18",
+    "source": "survey_comment",
+    "rating": 5.0,
+    "feedback_text": "love this app ordering is so smooth and fast agent sana was handling it",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer loves the app for its smooth and fast ordering experience and praises agent Sana."
+  },
+  {
+    "id": 2410,
+    "timestamp": "2024-01-07",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "food was spilled all over the bag when it reached me",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Food arrived spilled all over the bag."
+  },
+  {
+    "id": 2411,
+    "timestamp": "2024-01-07",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "thank you to the agent priya who handled my complaint so well  my fruits order in bangalore",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Customer thanks agent Priya for handling their complaint about a fruit order well."
+  },
+  {
+    "id": 2419,
+    "timestamp": "2024-01-02",
+    "source": "app_store_review",
+    "rating": 5.0,
+    "feedback_text": "best delivery service in my city never had an issue",
+    "sentiment": "Positive",
+    "category": "Delivery",
+    "summary": "Customer expressed satisfaction with delivery service"
+  },
+  {
+    "id": 2421,
+    "timestamp": "2024-01-15",
+    "source": "survey_comment",
+    "rating": 2.0,
+    "feedback_text": "app keeps crashing every time i open the cart",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "App crashes when opening the cart."
+  },
+  {
+    "id": 2425,
+    "timestamp": "2024-01-15",
+    "source": "app_store_review",
+    "rating": 5.0,
+    "feedback_text": "five stars the app is fantastic and reliable",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer is very satisfied with the app's performance."
+  },
+  {
+    "id": 2428,
+    "timestamp": "2024-01-11",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "thank you to the agent priya who handled my complaint so well  my burger order in bangalore",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Customer thanks agent Priya for handling their burger order complaint well."
+  },
+  {
+    "id": 2431,
+    "timestamp": "2024-01-20",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "app stuck on loading screen for 5 minutes then closed  my pizza order in delhi",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "App stuck on loading screen and cancelled pizza order."
+  },
+  {
+    "id": 2433,
+    "timestamp": "2024-01-10",
+    "source": "survey_comment",
+    "rating": 3.0,
+    "feedback_text": "the store staff was friendly when i picked up my order this is the fourth time",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Store staff was friendly during order pickup."
+  },
+  {
+    "id": 2434,
+    "timestamp": "2024-01-14",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "waited two hours and the order was finally cancelled by the app  my fruits order in bangalore",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order cancelled by the app after a two-hour wait."
+  },
+  {
+    "id": 2437,
+    "timestamp": "2024-01-12",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "cannot add address the save button is greyed out agent vikram was handling it",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "User is unable to add an address because the save button is greyed out."
+  },
+  {
+    "id": 2438,
+    "timestamp": "2024-01-15",
+    "source": "survey_comment",
+    "rating": null,
+    "feedback_text": "cannot add address the save button is greyed out  my thali order in kolkata",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "User cannot add an address because the save button is greyed out."
+  },
+  {
+    "id": 2439,
+    "timestamp": "2024-01-14",
+    "source": "support_ticket",
+    "rating": null,
+    "feedback_text": "login button does nothing on the latest update",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Login button is unresponsive after the latest update."
+  },
+  {
+    "id": 2444,
+    "timestamp": "2024-01-19",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "the support agent was very helpful and solved my issue quickly  my thali order in hyderabad",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Support agent was helpful and resolved the thali order issue quickly."
+  },
+  {
+    "id": 2452,
+    "timestamp": "2024-01-26",
+    "source": "support_ticket",
+    "rating": null,
+    "feedback_text": "double deduction on my card for order need this reversed asap this is the fourth time",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Customer reports a double deduction on their card for an order and requests an urgent reversal."
+  },
+  {
+    "id": 2453,
+    "timestamp": "2024-01-26",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "package was left at the wrong door i never received it this is the third time",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Package was delivered to the wrong door and not received, this is a recurring issue."
+  },
+  {
+    "id": 2461,
+    "timestamp": "2024-01-20",
+    "source": "app_store_review",
+    "rating": 2.0,
+    "feedback_text": "the map screen freezes and i cannot place an order",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Map screen freezes, preventing order placement."
+  },
+  {
+    "id": 2466,
+    "timestamp": "2024-01-14",
+    "source": "survey_comment",
+    "rating": 5.0,
+    "feedback_text": "super easy to use and quick checkout well done team",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Positive feedback on ease of use and checkout process."
+  },
+  {
+    "id": 2471,
+    "timestamp": "2024-01-14",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "the store staff was friendly when i picked up my order",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Store staff was friendly during order pickup."
+  },
+  {
+    "id": 2481,
+    "timestamp": "2024-01-19",
+    "source": "support_ticket",
+    "rating": null,
+    "feedback_text": "the map screen freezes and i cannot place an order agent neha was handling it",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Map screen freezes, preventing order placement."
+  },
+  {
+    "id": 2491,
+    "timestamp": "2024-01-01",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "driver could not find my building and just cancelled",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Driver was unable to locate building and cancelled delivery"
+  },
+  {
+    "id": 2494,
+    "timestamp": "2024-01-26",
+    "source": "survey_comment",
+    "rating": 3.0,
+    "feedback_text": "waited two hours and the order was finally cancelled by the app",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order cancelled after a two-hour wait."
+  },
+  {
+    "id": 2496,
+    "timestamp": "2024-01-26",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "items were missing from my delivery got only half the order",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Customer received only half of their ordered items."
+  },
+  {
+    "id": 2497,
+    "timestamp": "2024-01-05",
+    "source": "support_ticket",
+    "rating": 2.0,
+    "feedback_text": "driver could not find my building and just cancelled  my groceries order in bangalore",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Driver cancelled grocery order because they couldn't find the building."
+  },
+  {
+    "id": 2499,
+    "timestamp": "2024-01-01",
+    "source": "survey_comment",
+    "rating": 5.0,
+    "feedback_text": "super easy to use and quick checkout well done team",
+    "sentiment": "Positive",
+    "category": "Staff/Support",
+    "summary": "Customer appreciated easy checkout process"
+  },
+  {
+    "id": 2605,
+    "timestamp": "2024-01-06",
+    "source": "survey_comment",
+    "rating": null,
+    "feedback_text": "do you have any job openings for delivery partners in pune",
+    "sentiment": "Neutral",
+    "category": "Other",
+    "summary": "Customer is asking about job openings for delivery partners in Pune."
+  },
+  {
+    "id": 2610,
+    "timestamp": "2024-02-03",
+    "source": "app_store_review",
+    "rating": null,
+    "feedback_text": "please add more vegan restaurants to the platform",
+    "sentiment": "Unknown",
+    "category": "Other",
+    "summary": "API query failure"
+  },
+  {
+    "id": 2632,
+    "timestamp": "2024-01-06",
+    "source": "survey_comment",
+    "rating": 3.0,
+    "feedback_text": "test test test ignore",
+    "sentiment": "Neutral",
+    "category": "Other",
+    "summary": "No actionable feedback provided."
+  },
+  {
+    "id": 2658,
+    "timestamp": "2024-01-01",
+    "source": "app_store_review",
+    "rating": 1.0,
+    "feedback_text": "aaaaaaaaaaaaaaa",
+    "sentiment": "Neutral",
+    "category": "Other",
+    "summary": "Feedback contains no meaningful text"
+  },
+  {
+    "id": 2682,
+    "timestamp": "2024-01-01",
+    "source": "survey_comment",
+    "rating": 1.0,
+    "feedback_text": "app bahut acchi hai bahut fast hai",
+    "sentiment": "Positive",
+    "category": "App Bug",
+    "summary": "App is great and fast"
+  },
+  {
+    "id": 2710,
+    "timestamp": "2024-01-18",
+    "source": "app_store_review",
+    "rating": 5.0,
+    "feedback_text": "order marked delivered but nothing arrived at my place",
+    "sentiment": "Negative",
+    "category": "Delivery",
+    "summary": "Order was marked as delivered but the customer did not receive it."
+  },
+  {
+    "id": 2713,
+    "timestamp": "2024-01-19",
+    "source": "app_store_review",
+    "rating": 5.0,
+    "feedback_text": "coupon save50 did not apply at checkout and i paid full price",
+    "sentiment": "Negative",
+    "category": "Billing",
+    "summary": "Coupon code did not apply at checkout, resulting in full price payment."
+  },
+  {
+    "id": 2777,
+    "timestamp": "2024-01-27",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "search bar shows no results even for items that exist",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Search bar is not returning results for existing items."
+  },
+  {
+    "id": 2790,
+    "timestamp": "2024-01-15",
+    "source": "survey_comment",
+    "rating": null,
+    "feedback_text": "cannot add address the save button is greyed out  my thali order in kolkata",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "Save button is greyed out when trying to add an address for an order."
+  },
+  {
+    "id": 2796,
+    "timestamp": "2024-01-16",
+    "source": "support_ticket",
+    "rating": 1.0,
+    "feedback_text": "the new version drains my battery so fast",
+    "sentiment": "Negative",
+    "category": "App Bug",
+    "summary": "The new app version drains the device battery quickly."
+  },
+  {
+    "id": 2797,
+    "timestamp": "2024-01-21",
+    "source": "app_store_review",
+    "rating": null,
+    "feedback_text": "great experience overall food always fresh",
+    "sentiment": "Positive",
+    "category": "Other",
+    "summary": "Customer had a great overall experience and found the food consistently fresh."
+  }
+]
