@@ -1,0 +1,873 @@
+id,timestamp,source,rating,feedback_text
+1440,2024-01-01,app_store_review,2.0,app stuck on loading screen for 5 minutes then closed  my biryani order in mumbai
+2164,2024-01-01,app_store_review,,app stuck on loading screen for 5 minutes then closed this is the second time
+1621,2024-01-01,survey_comment,3.0,i was charged twice for the same order please refund the extra amount  my fruits order in pune
+1484,2024-01-01,app_store_review,3.0,items were missing from my delivery got only half the order
+2682,2024-01-01,survey_comment,1.0,app bahut acchi hai bahut fast hai
+2030,2024-01-01,survey_comment,2.0,payment failed but money got deducted from my account agent neha was handling it
+1572,2024-01-01,app_store_review,1.0,the invoice amount does not match what the app showed me agent priya was handling it
+1823,2024-01-01,support_ticket,1.0,my refund still hasnt come after 10 days this is ridiculous  my burger order in hyderabad
+1682,2024-01-01,app_store_review,1.0,items were missing from my delivery got only half the order
+2658,2024-01-01,app_store_review,1.0,aaaaaaaaaaaaaaa
+2491,2024-01-01,survey_comment,1.0,driver could not find my building and just cancelled
+1819,2024-01-01,survey_comment,,search bar shows no results even for items that exist
+2499,2024-01-01,survey_comment,5.0,super easy to use and quick checkout well done team
+1845,2024-01-02,survey_comment,2.0,nobody from support replied to my three emails  my biryani order in chennai
+1577,2024-01-02,support_ticket,1.0,chat support gave me copy paste answers that did not help
+2363,2024-01-02,app_store_review,,super easy to use and quick checkout well done team agent vikram was handling it
+1702,2024-01-02,support_ticket,2.0,delivery person was rude and threw the bag on the floor  my biryani order in mumbai
+1478,2024-01-02,survey_comment,1.0,notifications stopped working after the update this is the fourth time
+1072,2024-01-02,app_store_review,1.0,payment failed but money got deducted from my account this is the third time
+2419,2024-01-02,app_store_review,5.0,best delivery service in my city never had an issue
+1375,2024-01-02,app_store_review,2.0,app stuck on loading screen for 5 minutes then closed
+1626,2024-01-02,app_store_review,3.0,items were missing from my delivery got only half the order  my milk order in chennai
+1018,2024-01-02,support_ticket,3.0,customer care kept me on hold for 40 minutes then disconnected this is the first time
+2279,2024-01-02,survey_comment,5.0,five stars the app is fantastic and reliable this is the second time
+1140,2024-01-03,app_store_review,1.0,why is there a service fee i never agreed to on my bill
+1766,2024-01-03,app_store_review,1.0,search bar shows no results even for items that exist
+2360,2024-01-03,app_store_review,3.0,coupon save50 did not apply at checkout and i paid full price
+2008,2024-01-03,app_store_review,1.0,the suppooort agent was very helpful and solved my issue quickly this is the second time
+2305,2024-01-03,app_store_review,3.0,my refund still hasnt cooome after 10 days this is ridiculous
+1112,2024-01-03,support_ticket,1.0,delivery person was rude and threw the bag on the floor  my biryani order in chennai
+1025,2024-01-03,app_store_review,2.0,double deduction on my card for order need this reversed asap this is the second time
+1460,2024-01-03,support_ticket,3.0,the new version drains my battery so fast this is the first time
+2273,2024-01-03,survey_comment,1.0,customer care kept me on hold for 40 minutes then disconnected
+1014,2024-01-03,app_store_review,2.0,package was left at the wrong door i never received it
+1406,2024-01-04,survey_comment,2.0,payment failed but money got deducted from my account this is the fourth time
+1361,2024-01-04,app_store_review,,super easy to use and quick checkout well done team  my sushi order in chennai
+1776,2024-01-04,app_store_review,5.0,five stars the app is fantastic and reliable this is the first time
+2142,2024-01-04,survey_comment,1.0,coupon save50 did not apply at checkout and i paid full price agent rahul was handling it
+1901,2024-01-04,support_ticket,2.0,package was left at the wrong door i never received it
+2100,2024-01-04,app_store_review,2.0,the support agent was very helpful and solved my issue quickly agent sana was handling it
+2274,2024-01-04,support_ticket,5.0,super easy to use and quick checkout well done team
+1284,2024-01-04,support_ticket,2.0,payment failed but money got deducted from my account
+2355,2024-01-05,support_ticket,2.0,items were missing from my delivery got only half the order this is the second time
+1861,2024-01-05,support_ticket,3.0,chat support gave me copy paste answers that did not help
+2027,2024-01-05,survey_comment,1.0,the support agent was very helpful and solved my issue quickly  my fruits order in mumbai
+2335,2024-01-05,survey_comment,2.0,the store staff was friendly when i picked up my order
+2006,2024-01-05,app_store_review,1.0,i was charged twice for the same order please refund the extra amount agent anil was handling it
+1163,2024-01-05,survey_comment,2.0,the map screen freezes and i cannot place an order this is the second time
+2497,2024-01-05,support_ticket,2.0,driver could not find my building and just cancelled  my groceries order in bangalore
+1095,2024-01-05,support_ticket,3.0,i was charged twice for the same order please refund the extra amount  my sushi order in pune
+1692,2024-01-05,survey_comment,2.0,nobody from support replied to my three emails  my thali order in kolkata
+2047,2024-01-06,support_ticket,3.0,app stuck on loading screen for 5 minutes then closed
+1052,2024-01-06,app_store_review,1.0,the store staff was friendly when i picked up my order
+1784,2024-01-06,support_ticket,1.0,login button does nothing on the latest update
+1800,2024-01-06,app_store_review,,food was spilled all over the bag when it reached me
+1322,2024-01-06,support_ticket,4.0,love this app ordering is so smooth and fast  my thali order in mumbai
+1677,2024-01-06,survey_comment,,items were missing frooom my delivery got only half the order
+2605,2024-01-06,survey_comment,,do you have any job openings for delivery partners in pune
+1732,2024-01-06,support_ticket,,the new version drains my battery so fast agent priya was handling it
+1814,2024-01-06,survey_comment,2.0,driver could not find my building and just cancelled  my pizza order in pune
+1882,2024-01-06,support_ticket,1.0,notifications stopped working after the update agent meera was handling it
+2632,2024-01-06,survey_comment,3.0,test test test ignore
+1136,2024-01-06,survey_comment,2.0,my order arrived almost an hour late and the food was cold agent anil was handling it
+1449,2024-01-06,support_ticket,,best delivery service in my city never had an issue
+1402,2024-01-06,support_ticket,2.0,the new version drains my battery so fast
+1765,2024-01-06,survey_comment,,noootifications stopped working after the update
+1135,2024-01-07,support_ticket,1.0,order marked delivered but nothing arrived at my place  my burger order in bangalore
+1941,2024-01-07,app_store_review,5.0,best delivery service in my city never had an issue  my biryani order in delhi
+1938,2024-01-07,app_store_review,2.0,food was spilled all over the bag when it reached me
+1387,2024-01-07,survey_comment,,items were missing from my delivery got only half the order
+1977,2024-01-07,support_ticket,1.0,customer care kept me on hold for 40 minutes then disconnected agent rahul was handling it
+2411,2024-01-07,app_store_review,1.0,thank you to the agent priya who handled my complaint so well  my fruits order in bangalore
+2410,2024-01-07,support_ticket,1.0,food was spilled all over the bag when it reached me
+1191,2024-01-08,app_store_review,5.0,great experience overall food always fresh agent sana was handling it
+1972,2024-01-08,survey_comment,,best delivery service in my city never had an issue
+1619,2024-01-08,app_store_review,1.0,order marked delivered but nothing arrived at my place
+1984,2024-01-08,support_ticket,1.0,nobody from support replied to my three emails  my pizza order in chennai
+2334,2024-01-08,support_ticket,5.0,best delivery service in my city never had an issue  my groceries order in kolkata
+1378,2024-01-08,support_ticket,2.0,thank you to the agent priya who handled my complaint so well
+2127,2024-01-08,support_ticket,3.0,login button does nothing on the latest update
+1911,2024-01-08,support_ticket,,best delivery service in my city never had an issue
+1879,2024-01-08,support_ticket,5.0,five stars the app is fantastic and reliable
+1795,2024-01-09,survey_comment,3.0,the new version drains my battery so fast
+1036,2024-01-09,survey_comment,,search bar shooows no results even for items that exist
+1311,2024-01-09,survey_comment,1.0,food was spilled all over the bag when it reached me  my sushi order in pune
+2387,2024-01-09,support_ticket,1.0,cannot add address the save button is greyed out this is the second time
+2433,2024-01-10,survey_comment,3.0,the store staff was friendly when i picked up my order this is the fourth time
+1120,2024-01-10,app_store_review,2.0,the support agent was very helpful and solved my issue quickly
+2327,2024-01-10,app_store_review,2.0,chat support gave me copy paste answers that did not help agent meera was handling it
+1485,2024-01-10,survey_comment,3.0,items were missing from my delivery got only half the order
+1809,2024-01-10,support_ticket,1.0,search bar shows no results even for items that exist
+1686,2024-01-10,support_ticket,1.0,driver could not find my building and just cancelled
+2383,2024-01-10,app_store_review,,customer care kept me on hold for 40 minutes then disconnected  my milk order in mumbai
+1247,2024-01-10,support_ticket,5.0,super easy to use and quick checkout well done team
+2359,2024-01-10,support_ticket,1.0,my refund still hasnt come after 10 days this is ridiculous agent sana was handling it
+1751,2024-01-10,app_store_review,,driver cooould not find my building and just cancelled
+1265,2024-01-10,survey_comment,3.0,delivery person was rude and threw the bag on the floor agent priya was handling it
+1416,2024-01-10,survey_comment,2.0,my order arrived almost an hour late and the food was cold
+1997,2024-01-10,support_ticket,1.0,package was left at the wrong door i never received it
+2204,2024-01-10,app_store_review,3.0,it is okay nothing special
+1750,2024-01-11,survey_comment,2.0,the new version drains my battery so fast this is the third time
+1570,2024-01-11,support_ticket,5.0,super easy to use and quick checkout well done team  my thali order in bangalore
+1211,2024-01-11,app_store_review,2.0,coupon save50 did not apply at checkout and i paid full price this is the fourth time
+1278,2024-01-11,support_ticket,,double deduction on my card for order need this reversed asap
+2291,2024-01-11,support_ticket,1.0,my refund still hasnt come after 10 days this is ridiculous
+1673,2024-01-11,survey_comment,1.0,got charged for a subscription i cancelled last month agent neha was handling it
+1965,2024-01-11,support_ticket,3.0,got charged for a subscription i cancelled last month
+1189,2024-01-11,app_store_review,1.0,driver could not find my building and just cancelled  my groceries order in mumbai
+1141,2024-01-11,support_ticket,1.0,got charged for a subscription i cancelled last month
+2240,2024-01-11,survey_comment,2.0,cannot add address the save button is greyed out  my sushi order in bangalore
+1637,2024-01-11,app_store_review,,coupon save50 did not apply at checkout and i paid full price  my thali order in delhi
+2428,2024-01-11,support_ticket,2.0,thank you to the agent priya who handled my complaint so well  my burger order in bangalore
+1521,2024-01-11,app_store_review,2.0,delivery person was rude and threw the bag on the floor
+1764,2024-01-12,app_store_review,1.0,food was spilled all over the bag when it reached me
+1098,2024-01-12,survey_comment,3.0,the map screen freezes and i cannot place an order  my fruits order in delhi
+1028,2024-01-12,app_store_review,2.0,driver could not find my building and just cancelled
+2155,2024-01-12,survey_comment,1.0,search bar shows no results even for items that exist
+1319,2024-01-12,app_store_review,,order marked delivered but nothing arrived at my place agent priya was handling it
+1744,2024-01-12,survey_comment,3.0,package was left at the wrong door i never received it agent sana was handling it
+2032,2024-01-12,support_ticket,,double deduction on my card for order need this reversed asap
+2437,2024-01-12,app_store_review,2.0,cannot add address the save button is greyed out agent vikram was handling it
+1410,2024-01-12,app_store_review,1.0,my order arrived almost an hour late and the food was cold  my burger order in chennai
+1396,2024-01-12,support_ticket,1.0,nobody from support replied to my three emails agent anil was handling it
+1801,2024-01-12,app_store_review,2.0,search bar shows no results even for items that exist
+1477,2024-01-12,app_store_review,5.0,five stars the app is fantastic and reliable
+2225,2024-01-13,support_ticket,5.0,best delivery service in my city never had an issue
+1909,2024-01-13,survey_comment,2.0,waited two hours and the order was finally cancelled by the app this is the fourth time
+1318,2024-01-13,support_ticket,,cannot add address the save button is greyed out this is the fourth time
+2280,2024-01-13,survey_comment,4.0,great experience overall food always fresh  my biryani order in pune
+1374,2024-01-13,support_ticket,1.0,driver could not find my building and just cancelled
+2284,2024-01-13,app_store_review,5.0,best delivery service in my city never had an issue
+1902,2024-01-13,survey_comment,1.0,food was spilled all over the bag when it reached me
+1869,2024-01-13,app_store_review,2.0,app stuck on loading screen for 5 minutes then closed
+1471,2024-01-13,app_store_review,2.0,the map screen freezes and i cannot place an order this is the third time
+2288,2024-01-14,app_store_review,2.0,notifications stopped working after the update this is the second time
+2439,2024-01-14,support_ticket,,login button does nothing on the latest update
+1719,2024-01-14,app_store_review,1.0,items were missing from my delivery got only half the order agent neha was handling it
+2251,2024-01-14,support_ticket,2.0,cannot add address the save button is greyed out  my fruits order in bangalore
+2471,2024-01-14,support_ticket,1.0,the store staff was friendly when i picked up my order
+2466,2024-01-14,survey_comment,5.0,super easy to use and quick checkout well done team
+2134,2024-01-14,survey_comment,1.0,waited two hours and the order was finally cancelled by the app
+1079,2024-01-14,app_store_review,2.0,payment failed but money got deducted from my account agent sana was handling it
+2404,2024-01-14,survey_comment,1.0,my refund still hasnt come after 10 days this is ridiculous this is the second time
+2434,2024-01-14,support_ticket,1.0,waited two hours and the order was finally cancelled by the app  my fruits order in bangalore
+1974,2024-01-15,survey_comment,2.0,thank you to the agent priya who handled my complaint so well
+1045,2024-01-15,app_store_review,1.0,cannot add address the save button is greyed out
+1173,2024-01-15,app_store_review,2.0,i was charged twice for the same order please refund the extra amount
+2339,2024-01-15,support_ticket,5.0,great experience overall food always fresh  my milk order in bangalore
+2790,2024-01-15,survey_comment,,cannot add address the save button is greyed out  my thali order in kolkata
+1073,2024-01-15,survey_comment,1.0,coupon save50 did not apply at checkout and i paid full price agent sana was handling it
+2421,2024-01-15,survey_comment,2.0,app keeps crashing every time i open the cart
+2425,2024-01-15,app_store_review,5.0,five stars the app is fantastic and reliable
+2157,2024-01-15,support_ticket,1.0,my refund still hasnt cooome after 10 days this is ridiculous
+1598,2024-01-15,support_ticket,,delivery person was rude and threw the bag on the floor agent priya was handling it
+1933,2024-01-15,survey_comment,,waited two hours and the order was finally cancelled by the app
+2438,2024-01-15,survey_comment,,cannot add address the save button is greyed out  my thali order in kolkata
+1152,2024-01-15,survey_comment,,coupon save50 did not apply at checkout and i paid full price  my thali order in mumbai
+2796,2024-01-16,support_ticket,1.0,the new version drains my battery so fast
+2275,2024-01-16,support_ticket,1.0,waited two hours and the order was finally cancelled by the app
+1100,2024-01-16,app_store_review,,the new version drains my battery so fast
+1537,2024-01-16,app_store_review,2.0,the new version drains my battery so fast  my thali order in delhi
+1991,2024-01-16,support_ticket,2.0,got charged for a subscription i cancelled last month  my milk order in delhi
+1309,2024-01-16,survey_comment,2.0,i was charged twice for the same order please refund the extra amount  my fruits order in kolkata
+1053,2024-01-16,support_ticket,1.0,the new version drains my battery so fast
+1910,2024-01-16,app_store_review,2.0,got charged for a subscription i cancelled last month
+1877,2024-01-16,survey_comment,,notifications stopped working after the update  my pizza order in hyderabad
+1128,2024-01-17,support_ticket,,delivery person was rude and threw the bag on the floor
+2067,2024-01-17,survey_comment,1.0,my order arrived almost an hour late and the food was cold  my fruits order in delhi
+1950,2024-01-17,survey_comment,5.0,five stars the app is fantastic and reliable  my thali order in chennai
+1376,2024-01-17,support_ticket,5.0,five stars the app is fantastic and reliable  my milk order in delhi
+2111,2024-01-17,support_ticket,5.0,great experience overall food always fresh
+1476,2024-01-17,app_store_review,3.0,package was left at the wrong door i never received it  my burger order in delhi
+1528,2024-01-17,app_store_review,2.0,items were missing from my delivery got only half the order
+1707,2024-01-17,app_store_review,5.0,love this app ordering is so smooth and fast
+1715,2024-01-17,app_store_review,1.0,coupon save50 did not apply at checkout and i paid full price
+1365,2024-01-17,support_ticket,1.0,my order arrived almost an hour late and the food was cold this is the fourth time
+1213,2024-01-17,support_ticket,1.0,double deduction on my card for order need this reversed asap
+1495,2024-01-17,support_ticket,4.0,super easy to use and quick checkout well done team agent neha was handling it
+1441,2024-01-18,survey_comment,3.0,delivery person was rude and threw the bag on the floor this is the second time
+1032,2024-01-18,app_store_review,5.0,five stars the app is fantastic and reliable
+1382,2024-01-18,app_store_review,,order marked delivered but nothing arrived at my place
+1002,2024-01-18,support_ticket,1.0,my order arrived almost an hour late and the food was cold
+2405,2024-01-18,survey_comment,5.0,love this app ordering is so smooth and fast agent sana was handling it
+1952,2024-01-18,app_store_review,3.0,i was charged twice for the same order please refund the extra amount this is the second time
+2256,2024-01-18,support_ticket,1.0,driver could not find my building and just cancelled this is the first time
+1504,2024-01-18,survey_comment,3.0,my order arrived almost an hour late and the food was cold
+2710,2024-01-18,app_store_review,5.0,order marked delivered but nothing arrived at my place
+1380,2024-01-18,survey_comment,2.0,the map screen freezes and i cannot place an order
+1891,2024-01-18,app_store_review,4.0,great experience overall food always fresh agent rahul was handling it
+1407,2024-01-18,app_store_review,2.0,driver could not find my building and just cancelled
+1600,2024-01-18,app_store_review,1.0,app keeps crashing every time i open the cart agent vikram was handling it
+1074,2024-01-19,support_ticket,2.0,app stuck on loading screen for 5 minutes then closed
+2481,2024-01-19,support_ticket,,the map screen freezes and i cannot place an order agent neha was handling it
+2370,2024-01-19,support_ticket,2.0,driver could not find my building and just cancelled
+2308,2024-01-19,support_ticket,2.0,app keeps crashing every time i open the cart
+2033,2024-01-19,support_ticket,2.0,app keeps crashing every time i open the cart
+1954,2024-01-19,support_ticket,3.0,chat support gave me copy paste answers that did not help
+2234,2024-01-19,survey_comment,1.0,nobody from support replied to my three emails
+2303,2024-01-19,survey_comment,5.0,love this app ordering is so smooth and fast
+1260,2024-01-19,support_ticket,2.0,the store staff was friendly when i picked up my order
+2713,2024-01-19,app_store_review,5.0,coupon save50 did not apply at checkout and i paid full price
+2444,2024-01-19,app_store_review,2.0,the support agent was very helpful and solved my issue quickly  my thali order in hyderabad
+1404,2024-01-20,survey_comment,1.0,cannot add address the save button is greyed out
+1434,2024-01-20,app_store_review,3.0,chat support gave me copy paste answers that did not help  my thali order in pune
+2431,2024-01-20,app_store_review,1.0,app stuck on loading screen for 5 minutes then closed  my pizza order in delhi
+1897,2024-01-20,support_ticket,3.0,app stuck on loading screen for 5 minutes then closed
+1057,2024-01-20,survey_comment,3.0,the store staff was friendly when i picked up my order
+2461,2024-01-20,app_store_review,2.0,the map screen freezes and i cannot place an order
+1107,2024-01-20,app_store_review,2.0,order marked delivered but nothing arrived at my place this is the first time
+1898,2024-01-20,support_ticket,1.0,food was spilled all over the bag when it reached me
+2114,2024-01-21,survey_comment,2.0,my refund still hasnt cooome after 10 days this is ridiculous
+1806,2024-01-21,support_ticket,,double deduction on my card for order need this reversed asap agent vikram was handling it
+2797,2024-01-21,app_store_review,,great experience overall food always fresh
+2153,2024-01-21,survey_comment,1.0,why is there a service fee i never agreed to on my bill  my pizza order in delhi
+2034,2024-01-21,app_store_review,2.0,why is there a service fee i never agreed to on my bill  my fruits order in pune
+1980,2024-01-21,survey_comment,2.0,the invoice amount does not match what the app showed me
+1164,2024-01-21,app_store_review,,i was charged twice for the same order please refund the extra amount
+1923,2024-01-21,survey_comment,1.0,the support agent was very helpful and solved my issue quickly
+2166,2024-01-21,support_ticket,5.0,best delivery service in my city never had an issue
+1333,2024-01-21,app_store_review,,why is there a service fee i never agreed to on my bill agent anil was handling it
+1790,2024-01-22,app_store_review,5.0,love this app ordering is so smooth and fast
+1760,2024-01-22,app_store_review,3.0,order marked delivered but nothing arrived at my place
+1033,2024-01-22,survey_comment,2.0,coupon save50 did not apply at checkout and i paid full price  my pizza order in bangalore
+1846,2024-01-22,app_store_review,3.0,customer care kept me on hold for 40 minutes then disconnected agent neha was handling it
+1395,2024-01-22,support_ticket,2.0,driver could not find my building and just cancelled  my pizza order in chennai
+2302,2024-01-22,support_ticket,,five stars the app is fantastic and reliable
+1816,2024-01-22,support_ticket,,love this app ordering is so smooth and fast agent anil was handling it
+2097,2024-01-23,support_ticket,2.0,items were missing from my delivery got only half the order  my pizza order in bangalore
+1121,2024-01-23,support_ticket,2.0,double deduction on my card for order need this reversed asap agent anil was handling it
+1048,2024-01-23,survey_comment,2.0,the map screen freezes and i cannot place an order
+2055,2024-01-23,app_store_review,1.0,notifications stopped working after the update
+2092,2024-01-23,support_ticket,1.0,cannot add address the save button is greyed out agent rahul was handling it
+1888,2024-01-23,survey_comment,,the invoice amount does not match what the app showed me this is the first time
+1976,2024-01-23,survey_comment,,delivery person was rude and threw the bag on the floor  my sushi order in mumbai
+1049,2024-01-23,app_store_review,2.0,my order arrived almost an hour late and the food was cold
+1635,2024-01-23,survey_comment,,my order arrived almost an hour late and the food was cold
+2380,2024-01-23,app_store_review,4.0,super easy to use and quick checkout well done team this is the fourth time
+1366,2024-01-23,app_store_review,2.0,order marked delivered but nothing arrived at my place this is the fourth time
+1195,2024-01-24,app_store_review,1.0,delivery person was rude and threw the bag on the floor agent neha was handling it
+1051,2024-01-24,app_store_review,1.0,the new version drains my battery so fast  my thali order in bangalore
+2156,2024-01-24,app_store_review,,package was left at the wrong door i never received it
+1463,2024-01-24,support_ticket,4.0,love this app ordering is so smooth and fast
+2064,2024-01-24,support_ticket,3.0,notifications stopped working after the update agent anil was handling it
+2198,2024-01-25,app_store_review,1.0,the map screen freezes and i cannot place an order
+2194,2024-01-25,app_store_review,3.0,ok i guess
+2130,2024-01-25,survey_comment,2.0,driver could not find my building and just cancelled  my pizza order in mumbai
+2125,2024-01-25,support_ticket,3.0,oook i guess
+1623,2024-01-25,app_store_review,2.0,search bar shows no results even for items that exist this is the first time
+1662,2024-01-25,app_store_review,3.0,why is there a service fee i never agreed to on my bill
+1797,2024-01-25,support_ticket,,super easy to use and quick checkout well done team
+2189,2024-01-25,app_store_review,2.0,app stuck on loading screen for 5 minutes then closed this is the third time
+1317,2024-01-25,app_store_review,2.0,nobody from support replied to my three emails agent rahul was handling it
+1004,2024-01-26,app_store_review,,the invoice amount does not match what the app showed me
+2207,2024-01-26,app_store_review,1.0,login button does nothing on the latest update agent anil was handling it
+2496,2024-01-26,support_ticket,2.0,items were missing from my delivery got only half the order
+1105,2024-01-26,support_ticket,5.0,five stars the app is fantastic and reliable
+2101,2024-01-26,support_ticket,1.0,nooobody from support replied to my three emails this is the fourth time
+2453,2024-01-26,support_ticket,2.0,package was left at the wrong door i never received it this is the third time
+2452,2024-01-26,support_ticket,,double deduction on my card for order need this reversed asap this is the fourth time
+2494,2024-01-26,survey_comment,3.0,waited two hours and the order was finally cancelled by the app
+1668,2024-01-26,survey_comment,1.0,app stuck on loading screen for 5 minutes then closed agent meera was handling it
+1865,2024-01-26,app_store_review,1.0,app keeps crashing every time i open the cart
+1251,2024-01-26,survey_comment,2.0,thank you to the agent priya who handled my complaint so well
+1022,2024-01-27,support_ticket,2.0,driver could not find my building and just cancelled  my groceries order in pune
+1616,2024-01-27,app_store_review,5.0,great experience overall food always fresh agent vikram was handling it
+2777,2024-01-27,support_ticket,1.0,search bar shows no results even for items that exist
+1617,2024-01-27,app_store_review,5.0,super easy to use and quick checkout well done team  my biryani order in pune
+2331,2024-01-27,survey_comment,2.0,the invoice amount does not match what the app showed me this is the fourth time
+2078,2024-01-27,survey_comment,3.0,app keeps crashing every time i open the cart
+1054,2024-01-27,app_store_review,2.0,the store staff was friendly when i picked up my order
+1201,2024-01-28,app_store_review,3.0,the map screen freezes and i cannot place an order this is the fourth time
+1116,2024-01-28,support_ticket,2.0,app stuck on loading screen for 5 minutes then closed
+1501,2024-01-28,survey_comment,3.0,my order arrived almost an hour late and the food was cold agent vikram was handling it
+1325,2024-01-28,app_store_review,2.0,i was charged twice for the same order please refund the extra amount
+1730,2024-01-28,support_ticket,,five stars the app is fantastic and reliable  my milk order in hyderabad
+2403,2024-01-28,survey_comment,,coupon save50 did not apply at checkout and i paid full price  my fruits order in mumbai
+1864,2024-01-28,support_ticket,,the support agent was very helpful and solved my issue quickly
+2208,2024-02-01,app_store_review,,chat support gave me copy paste answers that did not help this is the first time
+1661,2024-02-01,survey_comment,5.0,love this app ordering is so smooth and fast this is the second time
+1280,2024-02-01,survey_comment,3.0,the invoice amount does not match what the app showed me
+2184,2024-02-01,survey_comment,5.0,best delivery service in my city never had an issue
+1390,2024-02-01,app_store_review,2.0,nobody from support replied to my three emails this is the third time
+1239,2024-02-01,survey_comment,1.0,double deduction on my card for order need this reversed asap  my fruits order in pune
+1781,2024-02-01,support_ticket,3.0,why is there a service fee i never agreed to on my bill this is the second time
+1326,2024-02-01,support_ticket,3.0,nobody from support replied to my three emails
+2374,2024-02-01,support_ticket,1.0,payment failed but money got deducted from my account
+1711,2024-02-01,survey_comment,,coupon save50 did not apply at checkout and i paid full price  my fruits order in chennai
+2362,2024-02-01,survey_comment,,the support agent was very helpful and solved my issue quickly agent priya was handling it
+2132,2024-02-02,survey_comment,1.0,login button does nothing on the latest update  my fruits order in bangalore
+2348,2024-02-02,support_ticket,4.0,best delivery service in my city never had an issue
+1695,2024-02-02,app_store_review,,five stars the app is fantastic and reliable
+1259,2024-02-02,app_store_review,2.0,chat support gave me copy paste answers that did not help
+1148,2024-02-02,support_ticket,1.0,items were missing from my delivery got only half the order
+2083,2024-02-02,survey_comment,2.0,coupon save50 did not apply at checkout and i paid full price
+1599,2024-02-02,app_store_review,3.0,average experience could be better
+2328,2024-02-03,app_store_review,1.0,login button does nothing on the latest update
+1306,2024-02-03,survey_comment,1.0,my order arrived almost an hour late and the food was cold
+2610,2024-02-03,app_store_review,,please add more vegan restaurants to the platform
+1787,2024-02-03,survey_comment,1.0,cannot add address the save button is greyed out
+2174,2024-02-03,survey_comment,1.0,i was charged twice for the same order please refund the extra amount  my groceries order in mumbai
+1334,2024-02-03,app_store_review,,great experience overall food always fresh  my fruits order in hyderabad
+1359,2024-02-03,survey_comment,1.0,cannot add address the save button is greyed out agent priya was handling it
+1629,2024-02-03,support_ticket,2.0,the invoice amount does not match what the app showed me agent rahul was handling it
+1289,2024-02-03,support_ticket,2.0,my refund still hasnt come after 10 days this is ridiculous
+1837,2024-02-03,app_store_review,3.0,delivery person was rude and threw the bag on the floor
+1475,2024-02-03,support_ticket,,cannot add address the save button is greyed out this is the first time
+1401,2024-02-04,survey_comment,3.0,my refund still hasnt come after 10 days this is ridiculous agent neha was handling it
+1101,2024-02-04,survey_comment,3.0,food was spilled all over the bag when it reached me this is the second time
+2269,2024-02-04,support_ticket,3.0,app keeps crashing every time i ooopen the cart
+1569,2024-02-04,support_ticket,4.0,love this app ordering is so smooth and fast  my biryani order in kolkata
+1971,2024-02-04,support_ticket,3.0,thank you to the agent priya who handled my complaint so well
+1342,2024-02-04,app_store_review,2.0,login button does nothing on the latest update
+1433,2024-02-04,app_store_review,3.0,why is there a service fee i never agreed to on my bill
+1536,2024-02-04,survey_comment,,i was charged twice for the same order please refund the extra amount
+2364,2024-02-04,survey_comment,3.0,the map screen freezes and i cannot place an order
+1038,2024-02-04,survey_comment,2.0,chat support gave me copy paste answers that did not help agent vikram was handling it
+1752,2024-02-04,app_store_review,2.0,my order arrived almost an hour late and the food was cold this is the third time
+2492,2024-02-05,app_store_review,4.0,super easy to use and quick checkout well done team
+1939,2024-02-05,app_store_review,1.0,the store staff was friendly when i picked up my order agent vikram was handling it
+2276,2024-02-05,support_ticket,3.0,my refund still hasnt come after 10 days this is ridiculous
+1302,2024-02-05,app_store_review,1.0,nobody from support replied to my three emails
+1205,2024-02-05,survey_comment,3.0,cannot add address the save button is greyed out
+1487,2024-02-05,app_store_review,2.0,the invoice amount does not match what the app showed me this is the second time
+1298,2024-02-06,support_ticket,3.0,my order arrived almost an hour late and the food was cold  my burger order in kolkata
+2019,2024-02-06,support_ticket,1.0,my refund still hasnt come after 10 days this is ridiculous  my milk order in delhi
+1362,2024-02-06,support_ticket,4.0,great experience overall food always fresh this is the third time
+2793,2024-02-06,app_store_review,3.0,app stuck on loading screen for 5 minutes then closed
+1436,2024-02-06,survey_comment,4.0,great experience overall food always fresh  my thali order in kolkata
+1773,2024-02-06,support_ticket,2.0,package was left at the wrong door i never received it  my fruits order in hyderabad
+2367,2024-02-06,app_store_review,1.0,the support agent was very helpful and solved my issue quickly
+2052,2024-02-07,support_ticket,2.0,login button does nothing on the latest update
+1698,2024-02-07,survey_comment,3.0,the store staff was friendly when i picked up my order  my thali order in pune
+1518,2024-02-07,app_store_review,5.0,love this app ordering is so smooth and fast  my pizza order in kolkata
+1983,2024-02-07,survey_comment,1.0,order marked delivered but nothing arrived at my place
+2368,2024-02-07,survey_comment,1.0,thank you to the agent priya who handled my complaint so well
+2483,2024-02-08,survey_comment,2.0,my order arrived almost an hour late and the food was cold agent rahul was handling it
+2186,2024-02-08,support_ticket,,five stars the app is fantastic and reliable  my pizza order in kolkata
+2152,2024-02-08,app_store_review,,love this app ordering is so smooth and fast agent vikram was handling it
+2063,2024-02-08,app_store_review,1.0,login button does nothing on the latest update this is the third time
+1763,2024-02-08,survey_comment,2.0,app keeps crashing every time i open the cart this is the second time
+2394,2024-02-08,app_store_review,2.0,the invoice amount does not match what the app showed me
+1815,2024-02-08,survey_comment,5.0,great experience overall food always fresh agent neha was handling it
+1143,2024-02-08,survey_comment,,login button does nothing on the latest update this is the fourth time
+2196,2024-02-08,survey_comment,1.0,delivery person was rude and threw the bag on the floor
+2056,2024-02-08,survey_comment,2.0,my refund still hasnt come after 10 days this is ridiculous
+2391,2024-02-09,survey_comment,3.0,i was charged twice for the same order please refund the extra amount
+1493,2024-02-09,support_ticket,1.0,items were missing from my delivery got only half the order
+1180,2024-02-09,app_store_review,3.0,cannot add address the save button is greyed out  my milk order in delhi
+1810,2024-02-09,support_ticket,2.0,chat support gave me copy paste answers that did not help
+1340,2024-02-10,app_store_review,1.0,the invoice amount does not match what the app showed me this is the third time
+1893,2024-02-10,app_store_review,2.0,order marked delivered but nothing arrived at my place  my fruits order in chennai
+1159,2024-02-10,app_store_review,1.0,order marked delivered but nothing arrived at my place  my biryani order in delhi
+1490,2024-02-10,support_ticket,1.0,got charged for a subscription i cancelled last month
+1755,2024-02-10,support_ticket,1.0,the new version drains my battery so fast
+1723,2024-02-10,survey_comment,,login button does nothing on the latest update
+2160,2024-02-10,app_store_review,4.0,five stars the app is fantastic and reliable agent arjun was handling it
+1447,2024-02-10,support_ticket,1.0,login button does nothing on the latest update
+1681,2024-02-10,support_ticket,3.0,thank you to the agent priya who handled my complaint so well  my biryani order in mumbai
+2057,2024-02-11,survey_comment,,the new version drains my battery so fast agent anil was handling it
+2077,2024-02-11,app_store_review,3.0,food was spilled all over the bag when it reached me
+2195,2024-02-11,support_ticket,2.0,items were missing frooom my delivery got only half the order agent rahul was handling it
+1774,2024-02-11,app_store_review,2.0,notifications stopped working after the update
+1238,2024-02-11,app_store_review,,the map screen freezes and i cannot place an order
+1512,2024-02-11,support_ticket,3.0,the map screen freezes and i cannot place an order  my milk order in kolkata
+2398,2024-02-12,support_ticket,,the invoooice amount does not match what the app showed me
+1614,2024-02-12,app_store_review,,customer care kept me on hold for 40 minutes then disconnected  my biryani order in bangalore
+1089,2024-02-12,survey_comment,5.0,love this app ordering is so smooth and fast
+1210,2024-02-12,survey_comment,2.0,waited two hours and the order was finally cancelled by the app  my sushi order in kolkata
+2298,2024-02-12,app_store_review,2.0,thank you to the agent priya who handled my complaint so well
+1448,2024-02-12,support_ticket,1.0,i was charged twice for the same order please refund the extra amount  my milk order in hyderabad
+1154,2024-02-12,survey_comment,3.0,double deduction on my card for order need this reversed asap
+2249,2024-02-12,support_ticket,1.0,items were missing from my delivery got only half the order
+2039,2024-02-13,app_store_review,2.0,the new version drains my battery so fast  my groceries order in pune
+1067,2024-02-13,support_ticket,1.0,my order arrived almost an hour late and the food was cold
+1550,2024-02-13,support_ticket,3.0,waited two hours and the order was finally cancelled by the app agent meera was handling it
+1498,2024-02-13,app_store_review,5.0,super easy to use and quick checkout well done team
+2254,2024-02-13,app_store_review,3.0,my refund still hasnt come after 10 days this is ridiculous
+1244,2024-02-13,app_store_review,2.0,coupon save50 did not apply at checkout and i paid full price
+1855,2024-02-13,survey_comment,5.0,super easy to use and quick checkout well done team
+2086,2024-02-13,survey_comment,,great experience overall food always fresh
+1092,2024-02-13,survey_comment,2.0,the new version drains my battery so fast agent arjun was handling it
+1985,2024-02-13,app_store_review,1.0,my refund still hasnt come after 10 days this is ridiculous
+1397,2024-02-13,survey_comment,,search bar shows no results even for items that exist
+2283,2024-02-13,app_store_review,2.0,order marked delivered but nothing arrived at my place
+2031,2024-02-13,survey_comment,1.0,thank you to the agent priya who handled my complaint so well agent priya was handling it
+1293,2024-02-13,support_ticket,5.0,great experience overall food always fresh  my sushi order in bangalore
+2775,2024-02-13,support_ticket,4.0,best delivery service in my city never had an issue
+1155,2024-02-13,support_ticket,,order marked delivered but nothing arrived at my place  my groceries order in delhi
+2199,2024-02-14,app_store_review,3.0,average experience cooould be better
+1409,2024-02-14,survey_comment,2.0,double deduction on my card for order need this reversed asap agent rahul was handling it
+2389,2024-02-14,support_ticket,1.0,the invoice amount does not match what the app showed me this is the fourth time
+2771,2024-02-14,app_store_review,1.0,cannot add address the save button is greyed out
+2090,2024-02-14,support_ticket,5.0,five stars the app is fantastic and reliable agent priya was handling it
+2137,2024-02-14,survey_comment,,double deduction on my card for order need this reversed asap  my pizza order in delhi
+1444,2024-02-14,app_store_review,2.0,the support agent was very helpful and solved my issue quickly this is the second time
+2698,2024-02-14,app_store_review,2.0,le livreur etait tres impoli et la commande etait froide
+1111,2024-02-14,app_store_review,2.0,nobody from support replied to my three emails agent meera was handling it
+1527,2024-02-15,app_store_review,,notifications stopped working after the update  my milk order in kolkata
+2106,2024-02-15,app_store_review,2.0,customer care kept me on hold for 40 minutes then disconnected  my biryani order in chennai
+1117,2024-02-15,survey_comment,,love this app ordering is so smooth and fast
+1793,2024-02-15,survey_comment,3.0,coupon save50 did not apply at checkout and i paid full price
+1442,2024-02-15,app_store_review,1.0,nobody from support replied to my three emails  my milk order in hyderabad
+1206,2024-02-15,support_ticket,1.0,food was spilled all over the bag when it reached me
+1792,2024-02-15,app_store_review,3.0,waited two hours and the order was finally cancelled by the app
+1789,2024-02-15,app_store_review,,great experience overall food always fresh  my biryani order in hyderabad
+2312,2024-02-15,app_store_review,5.0,great experience overall food always fresh agent rahul was handling it
+1649,2024-02-15,support_ticket,,login button does nothing on the latest update
+2088,2024-02-15,app_store_review,5.0,super easy to use and quick checkout well done team
+1391,2024-02-15,support_ticket,,best delivery service in my city never had an issue agent vikram was handling it
+1942,2024-02-15,survey_comment,3.0,coupon save50 did not apply at checkout and i paid full price this is the first time
+1062,2024-02-16,app_store_review,3.0,the new version drains my battery so fast  my burger order in chennai
+1423,2024-02-16,support_ticket,2.0,the new version drains my battery so fast agent vikram was handling it
+1813,2024-02-16,app_store_review,5.0,best delivery service in my city never had an issue
+1701,2024-02-16,support_ticket,1.0,items were missing from my delivery got only half the order
+2169,2024-02-16,survey_comment,,app stuck on loading screen for 5 minutes then closed this is the first time
+2324,2024-02-16,support_ticket,2.0,driver could not find my building and just cancelled  my biryani order in delhi
+1389,2024-02-16,survey_comment,,the support agent was very helpful and solved my issue quickly
+1565,2024-02-16,app_store_review,2.0,app keeps crashing every time i open the cart
+2017,2024-02-16,support_ticket,3.0,why is there a service fee i never agreed to on my bill
+1543,2024-02-16,app_store_review,1.0,nobody from support replied to my three emails  my pizza order in bangalore
+1805,2024-02-16,survey_comment,,the new version drains my battery so fast agent rahul was handling it
+1684,2024-02-16,app_store_review,1.0,got charged for a subscription i cancelled last month this is the fourth time
+1904,2024-02-17,support_ticket,,ok i guess
+1674,2024-02-17,survey_comment,,food was spilled all over the bag when it reached me
+1178,2024-02-17,survey_comment,,best delivery service in my city never had an issue this is the third time
+2381,2024-02-17,app_store_review,1.0,notifications stopped working after the update  my milk order in bangalore
+1963,2024-02-17,app_store_review,1.0,notifications stopped working after the update  my groceries order in hyderabad
+1169,2024-02-17,support_ticket,1.0,waited two hours and the order was finally cancelled by the app  my fruits order in hyderabad
+1192,2024-02-17,survey_comment,4.0,super easy to use and quick checkout well done team agent meera was handling it
+2333,2024-02-17,survey_comment,1.0,the new version drains my battery so fast  my groceries order in hyderabad
+1399,2024-02-17,app_store_review,2.0,the support agent was very helpful and solved my issue quickly this is the fourth time
+1685,2024-02-17,app_store_review,4.0,five stars the app is fantastic and reliable
+1129,2024-02-17,app_store_review,2.0,delivery person was rude and threw the bag on the floor
+1947,2024-02-17,app_store_review,2.0,waited two hours and the order was finally cancelled by the app  my thali order in pune
+1458,2024-02-17,survey_comment,3.0,app stuck on loading screen for 5 minutes then closed this is the fourth time
+2810,2024-02-17,app_store_review,,the new version drains my battery so fast this is the fourth time
+1573,2024-02-17,survey_comment,5.0,super easy to use and quick checkout well done team agent meera was handling it
+2478,2024-02-17,survey_comment,3.0,notifications stopped working after the update this is the first time
+1323,2024-02-17,support_ticket,1.0,order marked delivered but nothing arrived at my place agent sana was handling it
+2390,2024-02-18,support_ticket,2.0,my order arrived almost an hour late and the food was cold
+1172,2024-02-18,survey_comment,,the map screen freezes and i cannot place an order
+1966,2024-02-18,survey_comment,1.0,thank you to the agent priya who handled my complaint so well
+1949,2024-02-18,support_ticket,5.0,five stars the app is fantastic and reliable  my biryani order in delhi
+1990,2024-02-18,app_store_review,5.0,love this app ordering is so smooth and fast  my milk order in hyderabad
+2357,2024-02-18,support_ticket,,notifications stopped working after the update  my milk order in chennai
+2330,2024-02-18,survey_comment,,login button does nothing on the latest update  my pizza order in pune
+2407,2024-02-19,survey_comment,,i was charged twice for the same order please refund the extra amount  my biryani order in mumbai
+2763,2024-02-19,survey_comment,1.0,order marked delivered but nothing arrived at my place
+1927,2024-02-19,survey_comment,,got charged for a subscription i cancelled last month
+1506,2024-02-19,app_store_review,3.0,app stuck on loading screen for 5 minutes then closed this is the second time
+1968,2024-02-19,support_ticket,,coupon save50 did not apply at checkout and i paid full price  my groceries order in hyderabad
+2124,2024-02-19,app_store_review,,payment failed but money got deducted from my account agent rahul was handling it
+2292,2024-02-19,app_store_review,5.0,best delivery service in my city never had an issue  my groceries order in bangalore
+1435,2024-02-20,survey_comment,1.0,waited two hours and the order was finally cancelled by the app agent arjun was handling it
+1414,2024-02-20,app_store_review,1.0,my order arrived almost an hour late and the food was cold
+2074,2024-02-20,support_ticket,,great experience overall food always fresh agent arjun was handling it
+1429,2024-02-20,support_ticket,1.0,delivery person was rude and threw the bag on the floor
+2003,2024-02-20,support_ticket,2.0,food was spilled all over the bag when it reached me  my pizza order in kolkata
+1589,2024-02-20,support_ticket,1.0,the invoice amount does not match what the app showed me agent meera was handling it
+1741,2024-02-20,app_store_review,1.0,order marked delivered but nothing arrived at my place
+2076,2024-02-20,app_store_review,,best delivery service in my city never had an issue agent arjun was handling it
+2426,2024-02-20,support_ticket,5.0,super easy to use and quick checkout well done team this is the third time
+1824,2024-02-20,app_store_review,,app keeps crashing every time i open the cart  my fruits order in hyderabad
+2289,2024-02-21,support_ticket,2.0,customer care kept me on hold for 40 minutes then disconnected
+2297,2024-02-21,app_store_review,2.0,items were missing from my delivery got only half the order
+1712,2024-02-21,support_ticket,2.0,package was left at the wrong door i never received it
+2235,2024-02-21,app_store_review,,nobody from support replied to my three emails  my thali order in chennai
+2073,2024-02-21,app_store_review,2.0,the new version drains my battery so fast agent neha was handling it
+1759,2024-02-21,support_ticket,2.0,app keeps crashing every time i open the cart
+2139,2024-02-21,app_store_review,5.0,best delivery service in my city never had an issue
+1132,2024-02-21,app_store_review,3.0,delivery person was rude and threw the bag on the floor  my milk order in chennai
+1233,2024-02-22,app_store_review,1.0,package was left at the wrong door i never received it  my fruits order in kolkata
+1228,2024-02-22,app_store_review,2.0,driver could not find my building and just cancelled agent meera was handling it
+1370,2024-02-22,support_ticket,,i was charged twice for the same order please refund the extra amount
+1040,2024-02-22,survey_comment,1.0,the new version drains my battery so fast  my fruits order in delhi
+1461,2024-02-22,support_ticket,1.0,payment failed but money got deducted from my account
+1157,2024-02-22,app_store_review,,my refund still hasnt come after 10 days this is ridiculous  my sushi order in pune
+1873,2024-02-22,support_ticket,1.0,items were missing from my delivery got only half the order this is the third time
+1097,2024-02-22,support_ticket,3.0,driver could not find my building and just cancelled
+1559,2024-02-23,survey_comment,1.0,the invoice amount does not match what the app showed me
+2459,2024-02-23,app_store_review,2.0,my refund still hasnt come after 10 days this is ridiculous
+2232,2024-02-23,survey_comment,1.0,chat support gave me copy paste answers that did not help
+1243,2024-02-23,app_store_review,3.0,driver could not find my building and just cancelled  my sushi order in delhi
+1689,2024-02-24,app_store_review,2.0,the invoice amount does not match what the app showed me
+2320,2024-02-24,survey_comment,,nobody from support replied to my three emails
+2474,2024-02-24,support_ticket,1.0,i was charged twice for the same order please refund the extra amount  my biryani order in pune
+2783,2024-02-24,survey_comment,1.0,the store staff was friendly when i picked up my order
+1544,2024-02-24,support_ticket,2.0,delivery person was rude and threw the bag on the floor
+1886,2024-02-24,support_ticket,5.0,love this app ordering is so smooth and fast
+2182,2024-02-24,app_store_review,,app stuck on loading screen for 5 minutes then closed  my fruits order in bangalore
+2231,2024-02-24,app_store_review,3.0,food was spilled all over the bag when it reached me  my groceries order in kolkata
+1538,2024-02-24,support_ticket,2.0,why is there a service fee i never agreed to on my bill
+2317,2024-02-24,app_store_review,2.0,items were missing frooom my delivery got only half the order  my fruits order in mumbai
+1321,2024-02-24,survey_comment,,five stars the app is fantastic and reliable this is the second time
+2136,2024-02-24,support_ticket,2.0,i was charged twice for the same order please refund the extra amount  my fruits order in mumbai
+1208,2024-02-24,app_store_review,1.0,app keeps crashing every time i open the cart
+1667,2024-02-24,survey_comment,,search bar shows no results even for items that exist
+2123,2024-02-24,app_store_review,,thank you to the agent priya who handled my complaint so well agent arjun was handling it
+2245,2024-02-24,app_store_review,1.0,package was left at the wrong door i never received it  my thali order in chennai
+1467,2024-02-24,support_ticket,2.0,search bar shows no results even for items that exist this is the second time
+2406,2024-02-25,app_store_review,2.0,login button does nothing on the latest update
+1526,2024-02-25,survey_comment,3.0,double deduction on my card for order need this reversed asap
+1059,2024-02-25,app_store_review,2.0,why is there a service fee i never agreed to on my bill agent sana was handling it
+2801,2024-02-25,app_store_review,1.0,why is there a service fee i never agreed to on my bill this is the fourth time
+2038,2024-02-25,app_store_review,3.0,items were missing from my delivery got only half the order
+2377,2024-02-25,app_store_review,3.0,my refund still hasnt come after 10 days this is ridiculous  my groceries order in delhi
+1417,2024-02-25,survey_comment,,app keeps crashing every time i open the cart  my pizza order in mumbai
+1532,2024-02-25,support_ticket,2.0,the new version drains my battery so fast
+2149,2024-02-25,app_store_review,1.0,why is there a service fee i never agreed to on my bill this is the fourth time
+2353,2024-02-25,app_store_review,3.0,the new version drains my battery so fast  my milk order in kolkata
+1381,2024-02-25,support_ticket,3.0,driver could not find my building and just cancelled
+1012,2024-02-25,app_store_review,2.0,app keeps crashing every time i open the cart agent rahul was handling it
+2519,2024-02-25,app_store_review,5.0,brilliant my refund is on the way for the third week now lovely
+2583,2024-02-25,support_ticket,1.0,order came late and i was charged a delivery fee that should have been free
+1932,2024-02-25,app_store_review,1.0,thank you to the agent priya who handled my complaint so well
+1970,2024-02-25,app_store_review,,the support agent was very helpful and solved my issue quickly  my thali order in chennai
+1443,2024-02-25,app_store_review,1.0,why is there a service fee i never agreed to on my bill  my sushi order in delhi
+1113,2024-02-25,app_store_review,3.0,order marked delivered but nothing arrived at my place agent neha was handling it
+2446,2024-02-26,support_ticket,1.0,cannot add address the save button is greyed out
+1137,2024-02-26,app_store_review,3.0,food was spilled all over the bag when it reached me  my burger order in hyderabad
+1597,2024-02-26,app_store_review,2.0,chat support gave me copy paste answers that did not help  my sushi order in hyderabad
+1778,2024-02-26,app_store_review,5.0,great experience overall food always fresh
+1663,2024-02-26,support_ticket,,items were missing from my delivery got only half the order
+2454,2024-02-26,support_ticket,1.0,package was left at the wrong door i never received it  my milk order in pune
+1096,2024-02-27,support_ticket,,notifications stopped working after the update this is the third time
+1351,2024-02-27,survey_comment,5.0,best delivery service in my city never had an issue
+2397,2024-02-27,survey_comment,,five stars the app is fantastic and reliable  my pizza order in hyderabad
+1328,2024-02-27,app_store_review,3.0,nobody from support replied to my three emails  my groceries order in pune
+1962,2024-02-27,app_store_review,5.0,super easy to use and quick checkout well done team  my sushi order in hyderabad
+1168,2024-02-27,support_ticket,2.0,the new version drains my battery so fast
+2756,2024-02-27,survey_comment,2.0,app keeps crashing every time i open the cart  my groceries order in mumbai
+1583,2024-02-27,survey_comment,1.0,waited two hours and the order was finally cancelled by the app
+1669,2024-02-28,survey_comment,2.0,package was left at the wrong door i never received it  my sushi order in pune
+2041,2024-02-28,support_ticket,,five stars the app is fantastic and reliable
+1242,2024-02-28,survey_comment,3.0,why is there a service fee i never agreed to on my bill  my burger order in hyderabad
+1978,2024-02-28,survey_comment,2.0,order marked delivered but nothing arrived at my place
+1777,2024-02-28,survey_comment,3.0,notifications stopped working after the update
+2267,2024-02-28,survey_comment,3.0,coupon save50 did not apply at checkout and i paid full price  my milk order in delhi
+2105,2024-02-28,support_ticket,,the invoice amount does not match what the app showed me agent anil was handling it
+2238,2024-02-28,app_store_review,2.0,notifications stopped working after the update agent vikram was handling it
+1785,2024-02-28,survey_comment,,the map screen freezes and i cannot place an order  my milk order in delhi
+1516,2024-02-28,app_store_review,1.0,custooomer care kept me on hold for 40 minutes then disconnected this is the fourth time
+2530,2024-02-28,app_store_review,4.0,brilliant my refund is on the way for the third week now lovely
+2301,2024-02-28,app_store_review,2.0,delivery person was rude and threw the bag on the floor agent vikram was handling it
+1479,2024-02-28,app_store_review,5.0,love this app ordering is so smooth and fast agent meera was handling it
+1139,2024-02-28,app_store_review,,five stars the app is fantastic and reliable
+2456,2024-03-01,survey_comment,2.0,notifications stopped working after the update
+1296,2024-03-01,survey_comment,2.0,notifications stopped working after the update
+2059,2024-03-01,app_store_review,,super easy to use and quick checkout well done team agent anil was handling it
+2718,2024-03-01,app_store_review,5.0,i was charged twice for the same order please refund the extra amount
+1827,2024-03-01,survey_comment,,package was left at the wrong door i never received it
+2168,2024-03-01,support_ticket,1.0,waited two hours and the order was finally cancelled by the app this is the fourth time
+2500,2024-03-01,app_store_review,2.0,got charged for a subscription i cancelled last month
+2066,2024-03-01,support_ticket,2.0,customer care kept me on hold for 40 minutes then disconnected
+1093,2024-03-01,survey_comment,,app stuck on loading screen for 5 minutes then closed
+1383,2024-03-01,survey_comment,2.0,food was spilled all over the bag when it reached me  my pizza order in hyderabad
+2281,2024-03-01,app_store_review,1.0,payment failed but money got deducted from my account agent priya was handling it
+2236,2024-03-01,support_ticket,5.0,super easy to use and quick checkout well done team agent priya was handling it
+2040,2024-03-02,app_store_review,,payment failed but money got deducted from my account  my thali order in delhi
+1331,2024-03-02,app_store_review,3.0,delivery person was rude and threw the bag on the floor
+1190,2024-03-02,app_store_review,5.0,great experience overall food always fresh  my pizza order in bangalore
+1560,2024-03-02,app_store_review,4.0,super easy to use and quick checkout well done team
+2424,2024-03-02,support_ticket,,super easy to use and quick checkout well done team  my milk order in delhi
+1915,2024-03-02,app_store_review,3.0,app keeps crashing every time i open the cart
+2465,2024-03-02,survey_comment,2.0,delivery person was rude and threw the bag on the floor
+1925,2024-03-02,survey_comment,,great experience overall food always fresh
+2138,2024-03-02,survey_comment,3.0,app stuck on loading screen for 5 minutes then closed  my pizza order in hyderabad
+1581,2024-03-02,support_ticket,2.0,noootifications stopped working after the update
+2498,2024-03-02,survey_comment,,best delivery service in my city never had an issue agent rahul was handling it
+1451,2024-03-02,app_store_review,3.0,customer care kept me on hold for 40 minutes then disconnected  my fruits order in bangalore
+1567,2024-03-02,app_store_review,4.0,five stars the app is fantastic and reliable  my biryani order in chennai
+2070,2024-03-02,survey_comment,3.0,got charged for a subscription i cancelled last month
+1427,2024-03-02,app_store_review,2.0,login button does nothing on the latest update
+2366,2024-03-03,survey_comment,1.0,why is there a service fee i never agreed to on my bill this is the first time
+2470,2024-03-03,support_ticket,3.0,app keeps crashing every time i open the cart
+1400,2024-03-03,support_ticket,5.0,five stars the app is fantastic and reliable
+2337,2024-03-03,app_store_review,3.0,customer care kept me on hold for 40 minutes then disconnected
+1145,2024-03-03,app_store_review,3.0,order marked delivered but nooothing arrived at my place
+2015,2024-03-03,survey_comment,,best delivery service in my city never had an issue
+1726,2024-03-03,support_ticket,,thank you to the agent priya who handled my complaint so well agent anil was handling it
+1254,2024-03-03,survey_comment,,super easy to use and quick checkout well done team  my fruits order in chennai
+1657,2024-03-04,support_ticket,3.0,delivery person was rude and threw the bag on the floor this is the third time
+2226,2024-03-04,support_ticket,,love this app ordering is so smooth and fast
+1611,2024-03-04,support_ticket,,best delivery service in my city never had an issue
+2110,2024-03-04,app_store_review,,driver could not find my building and just cancelled
+2490,2024-03-04,survey_comment,1.0,app stuck on loading screen for 5 minutes then closed  my sushi order in mumbai
+1249,2024-03-04,support_ticket,,love this app ordering is so smooth and fast agent arjun was handling it
+2287,2024-03-04,support_ticket,1.0,food was spilled all over the bag when it reached me  my fruits order in mumbai
+1722,2024-03-04,survey_comment,,cannot add address the save button is greyed out
+2502,2024-03-04,app_store_review,4.0,fantastic service only took two hours for cold food amazing
+2385,2024-03-04,support_ticket,2.0,order marked delivered but nothing arrived at my place
+1894,2024-03-04,survey_comment,2.0,app stuck on loading screen for 5 minutes then closed
+1594,2024-03-04,survey_comment,,why is there a service fee i never agreed to on my bill
+2109,2024-03-05,support_ticket,3.0,the map screen freezes and i cannot place an order
+1647,2024-03-05,app_store_review,5.0,love this app ordering is so smooth and fast this is the third time
+1693,2024-03-05,support_ticket,3.0,it is oookay nothing special
+1258,2024-03-05,support_ticket,3.0,why is there a service fee i never agreed tooo on my bill  my pizza order in hyderabad
+2116,2024-03-05,app_store_review,5.0,best delivery service in my city never had an issue  my thali order in chennai
+2037,2024-03-05,support_ticket,2.0,food was spilled all over the bag when it reached me agent arjun was handling it
+1281,2024-03-05,survey_comment,4.0,love this app ordering is so smooth and fast
+2205,2024-03-06,support_ticket,2.0,coupon save50 did not apply at checkout and i paid full price agent vikram was handling it
+2332,2024-03-06,app_store_review,2.0,why is there a service fee i never agreed to on my bill  my groceries order in mumbai
+1919,2024-03-06,app_store_review,,got charged for a subscription i cancelled last month this is the third time
+1285,2024-03-06,support_ticket,1.0,package was left at the wrong door i never received it  my sushi order in bangalore
+2014,2024-03-06,app_store_review,4.0,five stars the app is fantastic and reliable
+1820,2024-03-06,survey_comment,,food was spilled all over the bag when it reached me agent neha was handling it
+2000,2024-03-06,survey_comment,5.0,super easy to use and quick checkout well done team  my groceries order in bangalore
+2010,2024-03-06,app_store_review,2.0,i was charged twice for the same order please refund the extra amount
+1625,2024-03-07,support_ticket,1.0,the support agent was very helpful and solved my issue quickly
+2467,2024-03-07,survey_comment,,best delivery service in my city never had an issue  my burger order in pune
+1344,2024-03-07,app_store_review,5.0,super easy to use and quick checkout well done team  my groceries order in delhi
+1459,2024-03-07,survey_comment,,five stars the app is fantastic and reliable
+1292,2024-03-07,app_store_review,1.0,waited two hours and the order was finally cancelled by the app
+1895,2024-03-07,support_ticket,,nobody from support replied to my three emails
+1016,2024-03-07,app_store_review,,best delivery service in my city never had an issue agent anil was handling it
+2340,2024-03-07,survey_comment,2.0,app keeps crashing every time i open the cart  my groceries order in chennai
+2378,2024-03-07,app_store_review,1.0,the invoice amount does not match what the app showed me
+2180,2024-03-07,support_ticket,2.0,app stuck on loading screen for 5 minutes then closed  my sushi order in pune
+1958,2024-03-07,support_ticket,1.0,the support agent was very helpful and solved my issue quickly
+2341,2024-03-07,support_ticket,5.0,great experience overall food always fresh  my burger order in delhi
+1953,2024-03-07,app_store_review,,chat support gave me copy paste answers that did not help
+1807,2024-03-08,survey_comment,3.0,notifications stopped working after the update  my burger order in delhi
+2212,2024-03-08,app_store_review,2.0,package was left at the wrong door i never received it
+2489,2024-03-08,support_ticket,5.0,five stars the app is fantastic and reliable ooorder 388628
+1094,2024-03-08,survey_comment,5.0,great experience overall food always fresh agent meera was handling it
+1312,2024-03-08,survey_comment,2.0,the support agent was very helpful and solved my issue quickly agent neha was handling it
+1452,2024-03-08,app_store_review,1.0,customer care kept me on hold for 40 minutes then disconnected  my pizza order in kolkata
+2477,2024-03-08,support_ticket,1.0,items were missing from my delivery got only half the order
+1202,2024-03-08,support_ticket,,search bar shows no results even for items that exist agent priya was handling it
+1329,2024-03-09,support_ticket,5.0,super easy to use and quick checkout well done team
+2143,2024-03-09,survey_comment,,great experience overall food always fresh this is the second time
+1071,2024-03-09,app_store_review,2.0,coupon save50 did not apply at checkout and i paid full price agent arjun was handling it
+1646,2024-03-09,survey_comment,,best delivery service in my city never had an issue this is the second time
+1633,2024-03-10,survey_comment,2.0,the map screen freezes and i cannot place an order agent arjun was handling it
+1514,2024-03-10,support_ticket,2.0,order marked delivered but nothing arrived at my place  my thali order in chennai
+1385,2024-03-10,support_ticket,2.0,my order arrived almost an hour late and the food was cold  my burger order in mumbai
+1415,2024-03-10,survey_comment,2.0,i was charged twice for the same order please refund the extra amount agent neha was handling it
+1223,2024-03-11,support_ticket,4.0,great experience overall food always fresh
+1473,2024-03-11,survey_comment,5.0,super easy to use and quick checkout well done team
+1039,2024-03-11,survey_comment,2.0,package was left at the wrong door i never received it  my groceries order in chennai
+2290,2024-03-11,survey_comment,1.0,waited two hours and the order was finally cancelled by the app
+1783,2024-03-11,support_ticket,1.0,the new versiooon drains my battery so fast
+1204,2024-03-11,app_store_review,2.0,nobody from support replied to my three emails  my milk order in chennai
+2326,2024-03-11,survey_comment,1.0,waited two hours and the order was finally cancelled by the app this is the third time
+1230,2024-03-11,app_store_review,1.0,thank you to the agent priya who handled my complaint so well
+2616,2024-03-11,survey_comment,,random question who designed your logo it looks nice
+1799,2024-03-11,survey_comment,,login button does nothing on the latest update
+2181,2024-03-11,survey_comment,5.0,best delivery service in my city never had an issue
+1183,2024-03-11,support_ticket,1.0,nobody from support replied to my three emails
+1081,2024-03-11,survey_comment,1.0,login button does nothing on the latest update  my biryani order in kolkata
+2369,2024-03-11,survey_comment,5.0,best delivery service in my city never had an issue agent priya was handling it
+1166,2024-03-11,app_store_review,5.0,best delivery service in my city never had an issue  my sushi ooorder in hyderabad
+1651,2024-03-12,survey_comment,1.0,my refund still hasnt come after 10 days this is ridiculous  my fruits order in kolkata
+1749,2024-03-12,support_ticket,,super easy to use and quick checkout well done team
+2098,2024-03-12,app_store_review,2.0,nobody from support replied to my three emails
+1422,2024-03-12,support_ticket,1.0,customer care kept me on hold for 40 minutes then disconnected agent meera was handling it
+2197,2024-03-12,support_ticket,2.0,chat support gave me copy paste answers that did not help this is the second time
+2183,2024-03-12,support_ticket,1.0,thank you to the agent priya who handled my complaint so well
+2167,2024-03-12,survey_comment,2.0,chat support gave me copy paste answers that did not help  my thali order in hyderabad
+2282,2024-03-12,app_store_review,5.0,super easy to use and quick checkout well done team  my burger order in chennai
+1102,2024-03-12,app_store_review,3.0,waited two hours and the order was finally cancelled by the app  my burger order in kolkata
+1114,2024-03-12,survey_comment,1.0,payment failed but money got deducted from my account
+2758,2024-03-12,support_ticket,5.0,looove this app ordering is so smooth and fast
+1812,2024-03-13,support_ticket,,items were missing from my delivery got only half the order
+1412,2024-03-13,survey_comment,3.0,waited two hours and the order was finally cancelled by the app
+1313,2024-03-13,support_ticket,4.0,super easy to use and quick checkout well done team this is the second time
+1198,2024-03-13,support_ticket,3.0,it is okay nothing special
+2760,2024-03-13,app_store_review,2.0,package was left at the wrong door i never received it
+2528,2024-03-13,app_store_review,5.0,wonderful charged me twice exactly what i wanted today
+1286,2024-03-13,support_ticket,5.0,great experience overall food always fresh
+1889,2024-03-13,support_ticket,2.0,the new version drains my battery so fast  my groceries order in mumbai
+1330,2024-03-13,survey_comment,2.0,payment failed but money got deducted from my account
+1075,2024-03-14,app_store_review,2.0,waited twooo hours and the order was finally cancelled by the app
+1748,2024-03-14,app_store_review,1.0,nobody from support replied to my three emails
+1786,2024-03-14,survey_comment,,driver could not find my building and just cancelled  my burger order in mumbai
+1881,2024-03-14,app_store_review,2.0,customer care kept me on hold for 40 minutes then disconnected
+1866,2024-03-14,survey_comment,3.0,driver could not find my building and just cancelled  my burger order in kolkata
+1122,2024-03-14,app_store_review,2.0,my order arrived almost an hour late and the food was cold  my sushi order in pune
+1874,2024-03-14,survey_comment,1.0,package was left at the wrong door i never received it
+2379,2024-03-14,app_store_review,2.0,customer care kept me on hold for 40 minutes then disconnected agent anil was handling it
+2271,2024-03-14,app_store_review,5.0,great experience overall food always fresh
+1271,2024-03-15,support_ticket,4.0,best delivery service in my city never had an issue
+1160,2024-03-15,support_ticket,,love this app ordering is so smooth and fast
+2770,2024-03-15,survey_comment,3.0,works fine for me most of the time
+2295,2024-03-15,app_store_review,,waited two hours and the order was finally cancelled by the app
+1123,2024-03-15,support_ticket,2.0,i was charged twice for the same order please refund the extra amount
+1645,2024-03-15,survey_comment,2.0,chat support gave me copy paste answers that did not help
+2609,2024-03-15,survey_comment,,is there a referral program for inviting friends
+1462,2024-03-15,app_store_review,1.0,driver could not find my building and just cancelled
+1890,2024-03-15,app_store_review,2.0,login button does nothing on the latest update this is the first time
+2035,2024-03-16,app_store_review,2.0,the store staff was friendly when i picked up my order
+1659,2024-03-16,survey_comment,1.0,the store staff was friendly when i picked up my order  my pizza order in bangalore
+1591,2024-03-16,survey_comment,3.0,average experience could be better
+1632,2024-03-16,support_ticket,1.0,login button does nothing on the latest update
+2798,2024-03-16,app_store_review,3.0,thank you to the agent priya who handled my complaint so well this is the fourth time
+1981,2024-03-16,support_ticket,1.0,i was charged twice fooor the same order please refund the extra amount
+1310,2024-03-16,support_ticket,1.0,the map screen freezes and i cannot place an order  my groceries order in bangalore
+1234,2024-03-16,survey_comment,2.0,the store staff was friendly when i picked up my order  my thali order in pune
+2263,2024-03-17,survey_comment,5.0,five stars the app is fantastic and reliable
+1652,2024-03-17,app_store_review,4.0,best delivery service in my city never had an issue
+2423,2024-03-17,support_ticket,2.0,nobody from support replied to my three emails
+1277,2024-03-17,app_store_review,1.0,notifications stopped working after the update
+1379,2024-03-17,survey_comment,,delivery person was rude and threw the bag on the floor
+1624,2024-03-17,app_store_review,2.0,app keeps crashing every time i open the cart
+1747,2024-03-17,survey_comment,2.0,the store staff was friendly when i picked up my order
+2201,2024-03-17,support_ticket,2.0,package was left at the wrong door i never received it agent rahul was handling it
+1641,2024-03-17,app_store_review,1.0,thank yooou to the agent priya who handled my complaint so well
+1345,2024-03-17,support_ticket,1.0,the store staff was friendly when i picked up my order this is the second time
+1500,2024-03-17,app_store_review,4.0,love this app ordering is so smooth and fast
+2002,2024-03-17,app_store_review,,the new version drains my battery so fast
+1276,2024-03-18,app_store_review,1.0,got charged for a subscription i cancelled last month  my biryani order in mumbai
+1590,2024-03-18,support_ticket,3.0,got charged for a subscription i cancelled last month  my pizza order in bangalore
+1007,2024-03-18,app_store_review,2.0,delivery person was rude and threw the bag on the floor agent rahul was handling it
+2584,2024-03-18,support_ticket,2.0,login keeps failing and when i finally got in the coupon did not apply either
+1464,2024-03-18,survey_comment,5.0,five stars the app is fantastic and reliable  my burger order in delhi
+2048,2024-03-18,app_store_review,1.0,customer care kept me on hold for 40 minutes then disconnected agent arjun was handling it
+2233,2024-03-18,support_ticket,1.0,delivery person was rude and threw the bag on the floor
+1636,2024-03-18,survey_comment,3.0,driver could not find my building and just cancelled this is the fourth time
+1386,2024-03-18,support_ticket,1.0,items were missing from my delivery got only half the order
+1522,2024-03-18,survey_comment,2.0,chat support gave me copy paste answers that did not help
+2016,2024-03-19,support_ticket,5.0,five stars the app is fantastic and reliable agent sana was handling it
+1232,2024-03-19,survey_comment,5.0,great experience overall food always fresh  my thali order in bangalore
+1188,2024-03-19,app_store_review,5.0,great experience overall food always fresh agent priya was handling it
+1534,2024-03-19,survey_comment,,cannot add address the save button is greyed out
+2442,2024-03-19,app_store_review,2.0,the store staff was friendly when i picked up my order agent sana was handling it
+1578,2024-03-19,support_ticket,,super easy to use and quick checkout well done team this is the first time
+1024,2024-03-19,support_ticket,1.0,waited two hours and the order was finally cancelled by the app
+2422,2024-03-19,survey_comment,,order marked delivered but nothing arrived at my place this is the third time
+1060,2024-03-19,app_store_review,,love this app ordering is so smooth and fast
+1405,2024-03-20,support_ticket,1.0,chat support gave me copy paste answers that did not help
+1908,2024-03-20,app_store_review,,great experience overall food always fresh  my thali order in hyderabad
+1227,2024-03-20,app_store_review,1.0,food was spilled all over the bag when it reached me
+1061,2024-03-20,support_ticket,5.0,best delivery service in my city never had an issue  my milk order in kolkata
+1068,2024-03-20,app_store_review,1.0,coupon save50 did not apply at checkout and i paid full price
+2241,2024-03-20,survey_comment,,five stars the app is fantastic and reliable
+1491,2024-03-20,support_ticket,5.0,love this app ordering is so smooth and fast
+1291,2024-03-20,app_store_review,1.0,login button does nothing on the latest update
+1854,2024-03-20,support_ticket,2.0,why is there a service fee i never agreed to on my bill
+1090,2024-03-20,support_ticket,,best delivery service in my city never had an issue
+2154,2024-03-20,support_ticket,2.0,thank you to the agent priya who handled my complaint so well  my pizza order in delhi
+1924,2024-03-20,app_store_review,3.0,the store staff was friendly when i picked up my order
+1263,2024-03-20,support_ticket,1.0,thank you to the agent priya who handled my complaint so well  my burger order in chennai
+1612,2024-03-20,app_store_review,1.0,package was left at the wrong door i never received it
+1796,2024-03-21,app_store_review,2.0,payment failed but money got deducted from my account  my pizza order in kolkata
+1899,2024-03-21,survey_comment,5.0,love this app ordering is so smooth and fast
+2485,2024-03-21,app_store_review,,my order arrived almost an hour late and the food was cold
+1848,2024-03-21,support_ticket,,looove this app ordering is so smooth and fast
+2436,2024-03-21,survey_comment,4.0,great experience overall food always fresh this is the fourth time
+1288,2024-03-21,support_ticket,3.0,payment failed but money got deducted from my account
+1144,2024-03-21,app_store_review,4.0,super easy to use and quick checkout well done team
+1508,2024-03-21,app_store_review,3.0,package was left at the wrong door i never received it agent priya was handling it
+1262,2024-03-21,survey_comment,2.0,app stuck on loading screen for 5 minutes then closed
+2409,2024-03-21,app_store_review,,five stars the app is fantastic and reliable this is the fourth time
+2306,2024-03-21,survey_comment,5.0,best delivery service in my city never had an issue
+1212,2024-03-21,support_ticket,3.0,order marked delivered but nothing arrived at my place
+2376,2024-03-21,survey_comment,3.0,waited two hours and the order was finally cancelled by the app
+1030,2024-03-22,support_ticket,2.0,delivery person was rude and threw the bag on the floor
+1746,2024-03-22,support_ticket,2.0,delivery person was rude and threw the bag on the floor this is the fourth time
+2430,2024-03-22,support_ticket,,why is there a service fee i never agreed to on my bill
+1828,2024-03-22,survey_comment,1.0,waited two hours and the order was finally cancelled by the app  my groceries order in bangalore
+1091,2024-03-22,survey_comment,,delivery person was rude and threw the bag on the floor  my pizza order in kolkata
+1867,2024-03-22,support_ticket,2.0,nobody from support replied to my three emails agent priya was handling it
+1077,2024-03-22,survey_comment,1.0,coupon save50 did not apply at checkout and i paid full price  my thali order in kolkata
+1798,2024-03-22,survey_comment,2.0,the invoice amount does not match what the app showed me
+2606,2024-03-22,survey_comment,,what are your office timings on weekends
+1235,2024-03-22,survey_comment,2.0,got charged for a subscription i cancelled last month agent rahul was handling it
+1026,2024-03-22,support_ticket,1.0,payment failed but money got deducted from my account this is the first time
+1283,2024-03-23,support_ticket,1.0,customer care kept me on hold for 40 minutes then disconnected
+1492,2024-03-23,app_store_review,,great experience overall food always fresh
+1488,2024-03-23,support_ticket,,package was left at the wrong door i never received it agent meera was handling it
+1856,2024-03-23,app_store_review,3.0,payment failed but money got deducted from my account
+2069,2024-03-23,app_store_review,4.0,love this app ordering is so smooth and fast  my milk order in bangalore
+1133,2024-03-23,app_store_review,3.0,login button does nothing on the latest update  my biryani order in bangalore
+1225,2024-03-23,app_store_review,1.0,search bar shows no results even for items that exist agent rahul was handling it
+1367,2024-03-23,support_ticket,5.0,best delivery service in my city never had an issue  my fruits order in kolkata
+1301,2024-03-23,support_ticket,1.0,customer care kept me on hold for 40 minutes then disconnected  my fruits order in mumbai
+1586,2024-03-23,app_store_review,4.0,love this app ordering is so smooth and fast  my burger order in pune
+1841,2024-03-23,survey_comment,5.0,super easy to use and quick checkout well done team
+2336,2024-03-23,support_ticket,3.0,the support agent was very helpful and solved my issue quickly this is the third time
+1176,2024-03-24,support_ticket,3.0,package was left at the wrong door i never received it agent arjun was handling it
+1914,2024-03-24,survey_comment,2.0,thank you to the agent priya who handled my complaint so well
+1371,2024-03-24,survey_comment,5.0,love this app ordering is so smooth and fast  my sushi order in pune
+1688,2024-03-24,app_store_review,4.0,great experience overall food always fresh  my groceries order in kolkata
+1843,2024-03-24,survey_comment,5.0,great experience oooverall food always fresh
+2094,2024-03-24,survey_comment,5.0,five stars the app is fantastic and reliable  my pizza order in bangalore
+1437,2024-03-24,support_ticket,,the new version drains my battery so fast
+1388,2024-03-24,survey_comment,2.0,driver could not find my building and just cancelled
+1207,2024-03-24,app_store_review,2.0,app keeps crashing every time i ooopen the cart
+2787,2024-03-24,app_store_review,3.0,works fine for me most of the time
+1454,2024-03-25,survey_comment,5.0,best delivery service in my city never had an issue
+2417,2024-03-25,support_ticket,1.0,chat support gave me copy paste answers that did not help  my groceries order in hyderabad
+2511,2024-03-25,app_store_review,5.0,perfect the app froze again what a wonderful feature
+1735,2024-03-25,survey_comment,2.0,the support agent was very helpful and solved my issue quickly
+1377,2024-03-25,support_ticket,2.0,package was left at the wrong door i never received it agent vikram was handling it
+2529,2024-03-25,app_store_review,5.0,oh great crashed again right at checkout just love it
+1703,2024-03-25,survey_comment,1.0,thank you to the agent priya who handled my complaint so well
+2441,2024-03-25,survey_comment,1.0,the store staff was friendly when i picked up my order  my milk order in bangalore
+2080,2024-03-25,app_store_review,,the invoice amount does not match what the app showed me
+2480,2024-03-25,app_store_review,3.0,my order arrived almost an hour late and the food was cold
+1394,2024-03-25,app_store_review,2.0,cannot add address the save button is greyed out agent anil was handling it
+2566,2024-03-26,app_store_review,1.0,app crashed during payment and then it still deducted money from my card
+2779,2024-03-26,support_ticket,5.0,super easy to use and quick checkout well done team  my milk order in mumbai
+1200,2024-03-26,support_ticket,1.0,delivery person was rude and threw the bag on the floor
+2458,2024-03-26,app_store_review,1.0,double deduction on my card for order need this reversed asap this is the third time
+1413,2024-03-26,support_ticket,,login button does nothing on the latest update
+1084,2024-03-26,survey_comment,3.0,cannot add address the save button is greyed out agent neha was handling it
+1445,2024-03-26,app_store_review,2.0,the map screen freezes and i cannot place an order  my burger order in delhi
+1849,2024-03-26,support_ticket,2.0,login button does nothing on the latest update  my pizza order in hyderabad
+2384,2024-03-26,survey_comment,2.0,the new version drains my battery so fast agent meera was handling it
+1596,2024-03-27,survey_comment,2.0,chat support gave me copy paste answers that did not help
+2309,2024-03-27,support_ticket,3.0,notifications stopped working after the update agent meera was handling it
+1738,2024-03-27,app_store_review,2.0,the store staff was friendly when i picked up my order  my milk order in kolkata
+2119,2024-03-27,app_store_review,2.0,delivery person was rude and threw the bag on the floor
+1561,2024-03-28,app_store_review,1.0,nobody from support replied to my three emails agent arjun was handling it
+2473,2024-03-28,app_store_review,3.0,looogin button does nothing on the latest update
+1588,2024-03-28,survey_comment,4.0,super easy to use and quick checkout well done team
+1087,2024-03-28,survey_comment,,five stars the app is fantastic and reliable  my milk order in chennai
+2286,2024-03-28,app_store_review,5.0,best delivery service in my city never had an issue ooorder 847204
+1457,2024-03-28,app_store_review,2.0,nobody from support replied to my three emails  my sushi order in bangalore
+1979,2024-03-28,support_ticket,1.0,why is there a service fee i never agreed to on my bill
+1540,2024-03-28,app_store_review,,super easy to use and quick checkout well done team  my biryani order in hyderabad
+1654,2024-03-28,survey_comment,,the map screen freezes and i cannot place an order
+1510,2024-04-01,survey_comment,4.0,five stars the app is fantastic and reliable
+2075,2024-04-01,app_store_review,1.0,coupon save50 did not apply at checkout and i paid full price  my sushi order in bangalore
+2049,2024-04-01,support_ticket,,got charged for a subscription i cancelled last month this is the first time
+1945,2024-04-02,survey_comment,,love this app ordering is so smooth and fast
+2187,2024-04-02,app_store_review,,got charged for a subscription i cancelled last month
+2809,2024-04-03,survey_comment,3.0,the support agent was very helpful and solved my issue quickly agent meera was handling it
+1531,2024-04-03,app_store_review,1.0,the store staff was friendly when i picked up my order
+2435,2024-05-01,app_store_review,1.0,items were missing from my delivery got only half the order
+2413,2024-05-02,app_store_review,1.0,the new version drains my battery so fast  my sushi order in bangalore
+1926,2024-05-02,app_store_review,1.0,customer care kept me on hold for 40 minutes then disconnected this is the fourth time
+1106,2024-05-03,app_store_review,1.0,payment failed but money got deducted from my account this is the first time
+1044,2024-05-03,app_store_review,2.0,package was left at the wrong door i never received it agent neha was handling it
+2358,2024-05-03,app_store_review,1.0,the store staff was friendly when i picked up my order  my groceries order in mumbai
+1430,2024-05-03,survey_comment,2.0,order marked delivered but nothing arrived at my place  my thali order in bangalore
+2065,2024-06-02,support_ticket,2.0,items were missing from my delivery got only half the order
+1224,2024-06-03,survey_comment,1.0,thank you to the agent priya who handled my complaint so well  my milk order in delhi
+1307,2024-06-03,app_store_review,3.0,my refund still hasnt come after 10 days this is ridiculous  my sushi order in chennai
+1314,2024-07-01,survey_comment,3.0,meh
+1438,2024-07-01,app_store_review,4.0,best delivery service in my city never had an issue agent sana was handling it
+1241,2024-07-02,survey_comment,2.0,payment failed but money got deducted from my account  my thali order in hyderabad
+2462,2024-08-01,survey_comment,1.0,the map screen freezes and i cannot place an order
+1804,2024-08-01,app_store_review,1.0,cannot add address the save button is greyed out  my burger order in delhi
+1043,2024-08-02,app_store_review,1.0,customer care kept me on hold for 40 minutes then disconnected
+1542,2024-08-02,survey_comment,1.0,coupon save50 did not apply at checkout and i paid full price  my groceries order in delhi
+1878,2024-08-03,survey_comment,3.0,package was left at the wrong door i never received it
+1554,2024-09-01,support_ticket,,driver could not find my building and just cancelled agent vikram was handling it
+1833,2024-09-01,app_store_review,2.0,food was spilled all over the bag when it reached me agent neha was handling it
+2255,2024-09-02,app_store_review,2.0,app stuck on loading screen for 5 minutes then closed  my thali order in bangalore
+2371,2024-09-02,support_ticket,4.0,great experience overall food always fresh this is the first time
+2147,2024-09-02,survey_comment,1.0,waited two hours and the order was finally cancelled by the app
+2680,2024-09-02,survey_comment,1.0,mera refund abhi tak nahi aaya bahut bura service hai
+1216,2024-09-02,app_store_review,2.0,my refund still hasnt cooome after 10 days this is ridiculous this is the second time
+1697,2024-09-03,app_store_review,4.0,five stars the app is fantastic and reliable
+1775,2024-09-03,app_store_review,5.0,great experience overall food always fresh
+2068,2024-09-03,survey_comment,5.0,love this app ordering is so smooth and fast  my thali order in hyderabad
+1731,2024-10-01,support_ticket,5.0,great experience overall food always fresh  my groceries order in pune
+2224,2024-10-01,support_ticket,3.0,app stuck on loading screen for 5 minutes then closed
+1027,2024-10-02,support_ticket,3.0,chat support gave me copy paste answers that did not help
+1124,2024-11-01,survey_comment,3.0,food was spilled all over the bag when it reached me this is the fourth time
+1264,2024-11-01,support_ticket,1.0,my refund still hasnt come after 10 days this is ridiculous this is the fourth time
+1222,2024-11-02,survey_comment,2.0,search bar shows no results even for items that exist this is the fourth time
+2060,2024-11-02,survey_comment,1.0,food was spilled all over the bag when it reached me agent meera was handling it
+1350,2024-11-02,app_store_review,5.0,love this app ordering is so smooth and fast
+1553,2024-11-03,support_ticket,5.0,best delivery service in my city never had an issue agent meera was handling it
+2768,2024-11-03,app_store_review,1.0,my order arrived almost an hour late and the food was cold  my thali order in mumbai
+2450,2024-12-01,support_ticket,2.0,looogin button does nothing on the latest update
+2209,2024-12-01,app_store_review,1.0,the invoice amount does not match what the app showed me agent anil was handling it
+1324,2024-12-01,app_store_review,,waited two hours and the order was finally cancelled by the app
+2242,2024-12-02,survey_comment,2.0,the store staff was friendly when i picked up my order  my fruits order in mumbai
+1887,2024-12-02,app_store_review,2.0,the invoice amount does not match what the app showed me this is the third time

@@ -1,0 +1,31 @@
+id,timestamp,source,rating,feedback_text,sentiment,category,summary
+1440,2024-01-01,app_store_review,2.0,app stuck on loading screen for 5 minutes then closed  my biryani order in mumbai,Negative,App Bug,App crashed during ordering process in Mumbai
+2164,2024-01-01,app_store_review,,app stuck on loading screen for 5 minutes then closed this is the second time,Negative,App Bug,App crashes and takes a long time to load
+1621,2024-01-01,survey_comment,3.0,i was charged twice for the same order please refund the extra amount  my fruits order in pune,Negative,Billing,Customer was charged twice for the same order and requests refund
+1484,2024-01-01,app_store_review,3.0,items were missing from my delivery got only half the order,Negative,Delivery,Order was incomplete with missing items
+2682,2024-01-01,survey_comment,1.0,app bahut acchi hai bahut fast hai,Positive,App Bug,App is great and fast
+2030,2024-01-01,survey_comment,2.0,payment failed but money got deducted from my account agent neha was handling it,Negative,Billing,Payment failed but money was deducted from account
+1572,2024-01-01,app_store_review,1.0,the invoice amount does not match what the app showed me agent priya was handling it,Neutral,Billing,Invoice amount mismatch between app and agent
+1823,2024-01-01,support_ticket,1.0,my refund still hasnt come after 10 days this is ridiculous  my burger order in hyderabad,Negative,Billing,Refund not received after 10 days
+1682,2024-01-01,app_store_review,1.0,items were missing from my delivery got only half the order,Negative,Delivery,Order was incomplete with missing items
+2658,2024-01-01,app_store_review,1.0,aaaaaaaaaaaaaaa,Neutral,Other,Feedback contains no meaningful text
+2491,2024-01-01,survey_comment,1.0,driver could not find my building and just cancelled,Negative,Delivery,Driver was unable to locate building and cancelled delivery
+1819,2024-01-01,survey_comment,,search bar shows no results even for items that exist,Negative,App Bug,Search bar returns no results for existing items
+2499,2024-01-01,survey_comment,5.0,super easy to use and quick checkout well done team,Positive,Staff/Support,Customer appreciated easy checkout process
+1845,2024-01-02,survey_comment,2.0,nobody from support replied to my three emails  my biryani order in chennai,Negative,Staff/Support,No response received from support regarding biryani order issue in Chennai
+1577,2024-01-02,support_ticket,1.0,chat support gave me copy paste answers that did not help,Negative,Staff/Support,Received unhelpful copy-paste answers from chat support
+2363,2024-01-02,app_store_review,,super easy to use and quick checkout well done team agent vikram was handling it,Positive,Staff/Support,Agent Vikram provided easy and quick checkout process assistance
+1702,2024-01-02,support_ticket,2.0,delivery person was rude and threw the bag on the floor  my biryani order in mumbai,Negative,Staff/Support,Rude delivery person mishandled food order
+1478,2024-01-02,survey_comment,1.0,notifications stopped working after the update this is the fourth time,Negative,App Bug,Notifications stopped functioning post-update (occurred previously)
+1072,2024-01-02,app_store_review,1.0,payment failed but money got deducted from my account this is the third time,Negative,Billing,Payment failed three times despite account deduction
+2419,2024-01-02,app_store_review,5.0,best delivery service in my city never had an issue,Positive,Delivery,Customer expressed satisfaction with delivery service
+1375,2024-01-02,app_store_review,2.0,app stuck on loading screen for 5 minutes then closed,Negative,App Bug,App experienced loading issue and crashed
+1626,2024-01-02,app_store_review,3.0,items were missing from my delivery got only half the order  my milk order in chennai,Negative,Delivery,"Delivery was incomplete, missing items from the order"
+1018,2024-01-02,support_ticket,3.0,customer care kept me on hold for 40 minutes then disconnected this is the first time,Negative,Staff/Support,Long hold time and disconnection during customer support interaction
+2279,2024-01-02,survey_comment,5.0,five stars the app is fantastic and reliable this is the second time,Positive,Other,Customer expressed satisfaction with the app and has used it multiple times
+1140,2024-01-03,app_store_review,1.0,why is there a service fee i never agreed to on my bill,Negative,Billing,Unexpected service fee in billing statement
+1766,2024-01-03,app_store_review,1.0,search bar shows no results even for items that exist,Negative,App Bug,Search bar returns no results for existing items
+2360,2024-01-03,app_store_review,3.0,coupon save50 did not apply at checkout and i paid full price,Negative,Billing,"Coupon code 'save50' did not apply during checkout, resulting in full price payment"
+2008,2024-01-03,app_store_review,1.0,the suppooort agent was very helpful and solved my issue quickly this is the second time,Positive,Staff/Support,Support agent was helpful and resolved the issue quickly.
+2305,2024-01-03,app_store_review,3.0,my refund still hasnt cooome after 10 days this is ridiculous,Negative,Billing,Customer is complaining about a delayed refund after 10 days.
+1112,2024-01-03,support_ticket,1.0,delivery person was rude and threw the bag on the floor  my biryani order in chennai,Negative,Delivery,Delivery person was rude and threw the order on the floor.

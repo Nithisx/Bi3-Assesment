@@ -1,0 +1,77 @@
+# Customer Feedback BI API Documentation
+
+The Customer Feedback BI API is built with FastAPI to expose analysis metrics saved in PostgreSQL.
+
+## Base URL
+Local Development: `http://localhost:8000`
+
+---
+
+## Endpoints
+
+### 1. Root Status Endpoint
+Checks if the API service is online and provides links to automatic docs.
+
+* **URL**: `/`
+* **Method**: `GET`
+* **Headers**: `None`
+* **Response Code**: `200 OK`
+* **Response Example**:
+  ```json
+  {
+    "status": "online",
+    "message": "BI Dashboard API is running successfully 🚀",
+    "docs_url": "/docs"
+  }
+  ```
+
+---
+
+### 2. Top Complaint Categories
+Fetches feedback categories grouped by counts, sorted in descending order of volume.
+
+* **URL**: `/api/categories`
+* **Method**: `GET`
+* **Headers**: `None`
+* **Response Code**: `200 OK`
+* **Response Example**:
+  ```json
+  [
+    { "category": "Delivery", "count": 520 },
+    { "category": "App Bug", "count": 410 },
+    { "category": "Billing", "count": 280 },
+    { "category": "Staff/Support", "count": 190 },
+    { "category": "Other", "count": 100 }
+  ]
+  ```
+
+---
+
+### 3. Sentiment Breakdown
+Fetches counts and calculated percentages for Positive, Negative, and Neutral sentiments.
+
+* **URL**: `/api/sentiment`
+* **Method**: `GET`
+* **Headers**: `None`
+* **Response Code**: `200 OK`
+* **Response Example**:
+  ```json
+  [
+    { "sentiment": "Negative", "count": 1100, "percentage": "61%" },
+    { "sentiment": "Neutral", "count": 500, "percentage": "28%" },
+    { "sentiment": "Positive", "count": 200, "percentage": "11%" }
+  ]
+  ```
+
+---
+
+## Interactive API Swagger Docs
+FastAPI automatically generates interactive Swagger documentation for this API. 
+To explore and test the endpoints visually in the browser, navigate to:
+`http://localhost:8000/docs`
+
+## Running the API Server
+Start the Uvicorn server locally from the workspace root:
+```bash
+uvicorn App:app --reload
+```
